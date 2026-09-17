@@ -24,6 +24,7 @@ Thumbs.db
 # Antigravity / Agent metadata
 .gemini/
 .system_generated/
+db/
 
 # Uploaded test / runtime documents in data directory
 data/documents/*
