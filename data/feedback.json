@@ -1,0 +1,100 @@
+[
+  {
+    "feedback_id": "467be312-385a-402d-b32f-63ce6edc08b0",
+    "message_id": "84483755-f90b-49df-8a18-a79cf298354d",
+    "timestamp": "2026-09-16T04:45:53.315Z",
+    "rating": "thumbs_up",
+    "comment": "Accurate citation grounding!"
+  },
+  {
+    "feedback_id": "0cf2625c-af7c-42fb-b55a-1c1d432120b3",
+    "message_id": "8ffb5f92-cffe-42a0-8f75-187dfaaee9f4",
+    "timestamp": "2026-09-16T04:46:30.158Z",
+    "rating": "thumbs_up",
+    "comment": "Accurate citation grounding!"
+  },
+  {
+    "feedback_id": "8f38d7c3-54d6-4902-9f83-f1a1e130e428",
+    "message_id": "c2b894ae-45d6-41b7-84aa-0a439db8468c",
+    "timestamp": "2026-09-16T04:50:52.843Z",
+    "rating": "thumbs_up",
+    "comment": null
+  },
+  {
+    "feedback_id": "0d72c392-ed4f-4c2a-a47f-7a0ebe3298fb",
+    "message_id": "7d3ce4ea-39bf-4f4b-aade-951751841c01",
+    "timestamp": "2026-09-16T04:58:49.205Z",
+    "rating": "thumbs_up",
+    "comment": "Accurate citation grounding!"
+  },
+  {
+    "feedback_id": "65c2a3c0-b5e9-4648-b0e5-17a65234fb01",
+    "message_id": "ad77608d-aeb8-46ee-b851-418d12d93dce",
+    "timestamp": "2026-09-16T04:59:12.750Z",
+    "rating": "thumbs_up",
+    "comment": "Accurate citation grounding!"
+  },
+  {
+    "feedback_id": "7afff997-4ceb-4e8b-8c6c-378fb43aba16",
+    "message_id": "ec06f644-9b44-4e17-86eb-9ec07210b2c6",
+    "timestamp": "2026-09-16T05:24:44.694Z",
+    "rating": "thumbs_up",
+    "comment": "Accurate citation grounding!"
+  },
+  {
+    "feedback_id": "088a9e73-ae5d-4f0e-b75f-3e8003e5cd91",
+    "message_id": "e2a69e70-5eaa-4976-9cc0-2abccb354876",
+    "timestamp": "2026-09-16T05:25:42.282Z",
+    "rating": "thumbs_up",
+    "comment": "Accurate citation grounding!"
+  },
+  {
+    "feedback_id": "96802b5e-531a-4435-b1a4-17d0b37bcd8b",
+    "message_id": "b8706c85-13ad-4340-8eec-51e0a985d669",
+    "timestamp": "2026-09-16T05:26:29.110Z",
+    "rating": "thumbs_up",
+    "comment": "Accurate citation grounding!"
+  },
+  {
+    "feedback_id": "04dd4c64-ef5f-46cc-b45b-8c8271cc49cc",
+    "message_id": "21fae4f2-4543-42be-a683-41e298949162",
+    "timestamp": "2026-09-16T05:26:57.876Z",
+    "rating": "thumbs_up",
+    "comment": "Accurate citation grounding!"
+  },
+  {
+    "feedback_id": "fa6a8055-4e02-4d5e-b6c3-a89c30315716",
+    "message_id": "6ebe1503-db63-47a4-987d-189502106193",
+    "timestamp": "2026-09-16T05:27:41.167Z",
+    "rating": "thumbs_up",
+    "comment": "Accurate citation grounding!"
+  },
+  {
+    "feedback_id": "d87625b4-9766-4f9c-882e-89b46a1e1f71",
+    "message_id": "be8e7ad6-07b7-4c85-a576-784ef1ca9d48",
+    "timestamp": "2026-09-16T05:29:00.200Z",
+    "rating": "thumbs_up",
+    "comment": "Accurate citation grounding!"
+  },
+  {
+    "feedback_id": "4a348642-11fe-449e-9528-880ff917094c",
+    "message_id": "c63fe452-20d0-4062-8876-d62ce7a769ed",
+    "timestamp": "2026-09-16T05:36:07.543Z",
+    "rating": "thumbs_up",
+    "comment": "Accurate citation grounding!"
+  },
+  {
+    "feedback_id": "55c93e95-0ca0-469e-8ca6-4901531cdfe9",
+    "message_id": "b3962192-fb9e-463a-b2f5-4a7a1338a4e8",
+    "timestamp": "2026-09-16T05:56:47.602Z",
+    "rating": "thumbs_up",
+    "comment": "Accurate citation grounding!"
+  },
+  {
+    "feedback_id": "ffbe0ad8-9f7c-4641-bada-efbb14dba247",
+    "message_id": "e794d16f-da51-4aad-b0c7-399158569003",
+    "timestamp": "2026-09-16T06:19:14.671Z",
+    "rating": "thumbs_up",
+    "comment": "Accurate citation grounding!"
+  }
+]

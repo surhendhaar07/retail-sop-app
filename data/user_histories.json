@@ -1,0 +1,1898 @@
+{
+  "admin": [
+    {
+      "role": "user",
+      "content": "give me the shop opening and closing time",
+      "timestamp": "2026-09-16T06:23:23.142Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the SOP guidelines:\n\n• Store opening procedures have a total duration of 45 minutes prior to store opening.\n\n• Make announcement at closing time: 'Store is now closed'.\n\n• Store closing procedures have a total duration of 30 minutes after the last customer leaves.\n\n• Make announcement 15 minutes before closing: 'Store closing in 15 minutes'.",
+      "citations": [
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 6,
+          "sheet_name": null,
+          "category": "General",
+          "content": "6 \nSECTION 2: STORE CLOSING \nObjective: To ensure the store is properly closed, secured, and ready for the next day. \nTotal Duration: 30 minutes after last customer \nClosing Procedures (8 Steps) \nStep 1: Closing Announcement Protocol (5 mins) \n• Make announcement 15 minutes before closing: 'Store closing in 15 minutes' \n• Make announcement at closing time: 'Store is now closed' \n• Lock all entrance doors immediately after last customer \n• Turn off 'Open' sign and external lights"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.docx",
+          "title": "Store Operations SOP",
+          "page": 1,
+          "sheet_name": null,
+          "category": "General",
+          "content": "Objective: To ensure the store is properly closed, secured, and ready for the next day.\n\nTotal Duration: 30 minutes after last customer\n\nClosing Procedures (8 Steps)\n\nStep 1: Closing Announcement Protocol (5 mins)\n\nMake announcement 15 minutes before closing: 'Store closing in 15 minutes'\n\nMake announcement at closing time: 'Store is now closed'\n\nLock all entrance doors immediately after last customer\n\nTurn off 'Open' sign and external lights\n\nMove 'Closed' sign to clearly visible location"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.docx",
+          "title": "Store Operations SOP",
+          "page": 1,
+          "sheet_name": null,
+          "category": "General",
+          "content": "Alarm deactivated on time\n\nBefore 06:00 AM\n\n✓\n\n\n\n\n\nOpening\n\nCash float verified\n\n₹5,000 per register\n\n✓\n\n\n\n\n\nPOS\n\nSystem operational\n\nAll terminals online\n\n✓\n\n\n\n\n\nTemp\n\nFridge/Freezer temp\n\n0-4°C / -18°C\n\n✓\n\n\n\n\n\nStock\n\nShelf stocking completed\n\nAll items stocked\n\n✓\n\n\n\n\n\nCleanliness\n\nStore appearance\n\nClean and organized\n\n✓\n\n\n\n\n\nClosing\n\nCash reconciliation\n\nVariance <0.5%\n\n✓\n\n\n\n\n\nClosing\n\nInventory count\n\nVariance <2%\n\n✓\n\n\n\n\n\nSecurity\n\nAlarm activated\n\nSystem armed\n\n✓\n\n\n\n\n\nOverall"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 3,
+          "sheet_name": null,
+          "category": "General",
+          "content": "3 \nSECTION 1: STORE OPENING \nObjective: To ensure the store is ready for business and staff are briefed on sales targets and shift \nassignments. \nTotal Duration: 45 minutes before opening \nOpening Procedures (9 Steps) \nStep 1: External Security Check (10 mins) \n• Designated employee performs external security check \n• Verify all windows and doors are secure \n• Check for signs of tampering or forced entry \n• Report any suspicious activity immediately to store manager"
+        }
+      ],
+      "message_id": "8d9bb16e-c766-47ea-944e-b3943b1fc869",
+      "timestamp": "2026-09-16T06:23:23.142Z"
+    },
+    {
+      "role": "user",
+      "content": "give me the shop opening and closing time",
+      "timestamp": "2026-09-17T05:24:16.115Z"
+    },
+    {
+      "role": "assistant",
+      "content": "### The Shop Opening And Closing Time\n\n• Opening Alarm deactivated on time Before.\n\n• **Make announcement at closing time:** 'Store is now closed'.",
+      "citations": [
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 6,
+          "sheet_name": null,
+          "category": "General",
+          "content": "6 \nSECTION 2: STORE CLOSING \nObjective: To ensure the store is properly closed, secured, and ready for the next day. \nTotal Duration: 30 minutes after last customer \nClosing Procedures (8 Steps) \nStep 1: Closing Announcement Protocol (5 mins) \n• Make announcement 15 minutes before closing: 'Store closing in 15 minutes' \n• Make announcement at closing time: 'Store is now closed' \n• Lock all entrance doors immediately after last customer \n• Turn off 'Open' sign and external lights"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 29,
+          "sheet_name": null,
+          "category": "General",
+          "content": "29 \nSECTION 11: DAILY/WEEKLY/MONTHLY AUDIT CHECKLISTS \nDaily Audit Checklist \nCategory Item Standard Status Notes Verified \nBy \nOpening Alarm deactivated on time Before \n06:00 AM \n✓ \n  \nOpening Cash float verified ₹5,000 per \nregister \n✓ \n  \nPOS System operational All \nterminals \nonline \n✓ \n  \nTemp Fridge/Freezer temp 0-4°C / -\n18°C \n✓ \n  \nStock Shelf stocking completed All items \nstocked \n✓ \n  \nCleanliness Store appearance Clean and \norganized \n✓ \n  \nClosing Cash reconciliation Variance \n<0.5%"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.docx",
+          "title": "Store Operations SOP",
+          "page": 1,
+          "sheet_name": null,
+          "category": "General",
+          "content": "Objective: To ensure the store is properly closed, secured, and ready for the next day.\n\nTotal Duration: 30 minutes after last customer\n\nClosing Procedures (8 Steps)\n\nStep 1: Closing Announcement Protocol (5 mins)\n\nMake announcement 15 minutes before closing: 'Store closing in 15 minutes'\n\nMake announcement at closing time: 'Store is now closed'\n\nLock all entrance doors immediately after last customer\n\nTurn off 'Open' sign and external lights\n\nMove 'Closed' sign to clearly visible location"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.docx",
+          "title": "Store Operations SOP",
+          "page": 1,
+          "sheet_name": null,
+          "category": "General",
+          "content": "Alarm deactivated on time\n\nBefore 06:00 AM\n\n✓\n\n\n\n\n\nOpening\n\nCash float verified\n\n₹5,000 per register\n\n✓\n\n\n\n\n\nPOS\n\nSystem operational\n\nAll terminals online\n\n✓\n\n\n\n\n\nTemp\n\nFridge/Freezer temp\n\n0-4°C / -18°C\n\n✓\n\n\n\n\n\nStock\n\nShelf stocking completed\n\nAll items stocked\n\n✓\n\n\n\n\n\nCleanliness\n\nStore appearance\n\nClean and organized\n\n✓\n\n\n\n\n\nClosing\n\nCash reconciliation\n\nVariance <0.5%\n\n✓\n\n\n\n\n\nClosing\n\nInventory count\n\nVariance <2%\n\n✓\n\n\n\n\n\nSecurity\n\nAlarm activated\n\nSystem armed\n\n✓\n\n\n\n\n\nOverall"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 2,
+          "sheet_name": null,
+          "category": "General",
+          "content": "2 \nTABLE OF CONTENTS \nSection 1: Store Opening \nSection 2: Store Closing \nSection 3: Cash Handling and POS Operations \nSection 4: Inventory Management \nSection 5: Customer Service Standards \nSection 6: Cleaning and Hygiene Schedule \nSection 7: Security and Loss Prevention \nSection 8: Visual Merchandising \nSection 9: Staff Management \nSection 10: Emergency Procedures \nSection 11: Daily/Weekly/Monthly Audit Checklists \nANNEXURES \nAnnexure 1: Staff Break Schedule \nAnnexure 2: Training Matrix"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 7,
+          "sheet_name": null,
+          "category": "General",
+          "content": "• Manager signs off on handover log with time and date \n• Log includes: cash amount, inventory discrepancies, issues found \n• Any unresolved items noted for next manager/shift \n• Handover log archived for audits and review \n• All staff members acknowledge receipt of shift information \n• 2-Person Verification: Closing manager + next shift manager \nStore Closing Checklist \nTask Responsible Duration Standard Verified By \n✓ \nClosing Cashiers 5 min 15 min + close Manager"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 19,
+          "sheet_name": null,
+          "category": "General",
+          "content": "• Monitor camera feeds during closing procedures \n• Retain video footage for 60 days minimum \n• Access to cameras restricted to management \n• 2-Person Verification: Manager reviews footage weekly \nCash Security \n• Keep cash drawer locked when cashier absent \n• Only manager can access safe without supervision \n• Safe access logged with time and person \n• Safe combination changed quarterly \n• Night deposit envelope locked in safe \n• No cash left in drawers overnight"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 26,
+          "sheet_name": null,
+          "category": "General",
+          "content": "• Post notice: 'Due to power outage, store is temporarily closed' \n• Document start time and duration of outage \n• 2-Person Verification: Manager oversees evacuation \nPower Restoration \n• Turn off all main switches to prevent surge damage \n• Wait 5 minutes after power returns \n• Turn switches back on gradually (1 minute intervals) \n• Check POS system startup; resolve any data issues \n• Verify refrigeration unit temperatures are safe \n• Check security system and alarm system"
+        }
+      ],
+      "message_id": "0f79a8c5-06a4-4759-9b33-bc3f11077edc",
+      "timestamp": "2026-09-17T05:24:16.115Z"
+    },
+    {
+      "role": "user",
+      "content": "what are the storage requirements for organic milk?",
+      "timestamp": "2026-09-17T05:28:36.619Z"
+    },
+    {
+      "role": "assistant",
+      "content": "### The Storage Requirements For Organic Milk\n\n• **SKU101** — Organic Milk | 45 | Refrigerated at four degrees.",
+      "citations": [
+        {
+          "source": "test_inventory_data.xlsx",
+          "title": "Inventory Specs",
+          "page": 1,
+          "sheet_name": "Inventory",
+          "category": "Stock",
+          "content": "--- Sheet: Inventory (Document: Inventory Specs) ---\nItem Code,Item Name,Stock Level,Storage Condition\nSKU101,Organic Milk,45,Refrigerated at four degrees\nSKU102,Artisan Bread,20,Dry ambient shelf"
+        }
+      ],
+      "message_id": "8f793cf7-9592-4ed4-9588-a4c7e58e9d4f",
+      "timestamp": "2026-09-17T05:28:36.619Z"
+    },
+    {
+      "role": "user",
+      "content": "Who won the 20",
+      "timestamp": "2026-09-17T05:30:09.590Z"
+    },
+    {
+      "role": "assistant",
+      "content": "### Who Won The 20\n\n• **Use counting denomination:** ₹100, ₹50, ₹20, ₹10, ₹5, ₹1 notes.\n\n• **Step 6:** Shelf Stocking (20 mins).\n\n• All Staff 20 min FIFO, no.\n\n• **Monthly variance limit:** <0.20% of monthly sales.",
+      "citations": [
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 3,
+          "sheet_name": null,
+          "category": "General",
+          "content": "• Wait for system initialization (typically 3-5 minutes) \n• Verify all terminals connect to main server successfully \n• Check POS logs for any errors or unusual activity \n• If errors occur: Contact IT support and document issue \n• 2-Person Verification: Supervisor confirms all terminals operational \nStep 4: Cash Drawer Float Verification (5 mins) \n• Open each cash drawer and verify float amount: ₹5,000 per register \n• Use counting denomination: ₹100, ₹50, ₹20, ₹10, ₹5, ₹1 notes"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 4,
+          "sheet_name": null,
+          "category": "General",
+          "content": "4 \n• 2-Person Verification: Store manager confirms readings \nStep 6: Shelf Stocking (20 mins) \n• Conduct inventory visual check of all shelves \n• Identify out-of-stock and low-stock items \n• Restock shelves following FIFO (First In, First Out) method \n• Older products moved to front; newer products to back \n• Ensure products are organized, neatly aligned, price tags visible \n• Report out-of-stock items to store manager \n• Check expiry dates while stocking; remove expired products"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 5,
+          "sheet_name": null,
+          "category": "General",
+          "content": "5 \nDeactivation \nPOS Boot-Up \nIT/Cashier 5 min All \nterminals \nonline \nSupervisor  \nCash Float \nVerification \nCashier 5 min ₹5,000 per \nregister \nSupervisor  \nFridge/Freezer \nTemp Check \nCashier 5 min 0-4°C / -\n18°C \nStore \nManager \n \nShelf Stocking \nAll Staff 20 min FIFO, no \ngaps, tags \nvisible \nStaff Pair  \nPromotional \nDisplays \nDesignated Employee 15 min Per \nplanogram \nVisual \nMerch \n \nRestroom Prep Designated Employee 10 min Clean, \nstocked, \nlogged \nStaff"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 10,
+          "sheet_name": null,
+          "category": "General",
+          "content": "• Daily variance limit: <0.5% of daily sales \n• Weekly variance limit: <0.25% of weekly sales \n• Monthly variance limit: <0.20% of monthly sales \n• Variance investigation: All cases >0.5% require documentation \n• Investigation must identify root cause and corrective action \n• Pattern analysis: Identify if variance is cashier-specific \n• Training intervention: Retraining for high-variance staff \n• 2-Person Verification: Manager investigates; supervisor approves \nStep 6: Gift Card/Loyalty Program"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 20,
+          "sheet_name": null,
+          "category": "General",
+          "content": "20 \n• Regular inventory checks for shrinkage \n• Immediate investigation of any shrinkage \n• Suspicious activity reported to manager \n• Customer bag checks at exit if needed \n• 2-Person Verification: Manager authorizes security measures"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.docx",
+          "title": "Store Operations SOP",
+          "page": 1,
+          "sheet_name": null,
+          "category": "General",
+          "content": "Check POS logs for any errors or unusual activity\n\nIf errors occur: Contact IT support and document issue\n\n2-Person Verification: Supervisor confirms all terminals operational\n\nStep 4: Cash Drawer Float Verification (5 mins)\n\nOpen each cash drawer and verify float amount: ₹5,000 per register\n\nUse counting denomination: ₹100, ₹50, ₹20, ₹10, ₹5, ₹1 notes\n\nRecord float amount in cash register log with time and initials\n\nAny variance >₹100 from ₹5,000: Report to store manager"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.docx",
+          "title": "Store Operations SOP",
+          "page": 1,
+          "sheet_name": null,
+          "category": "General",
+          "content": "Step 6: Shelf Stocking (20 mins)\n\nConduct inventory visual check of all shelves\n\nIdentify out-of-stock and low-stock items\n\nRestock shelves following FIFO (First In, First Out) method\n\nOlder products moved to front; newer products to back\n\nEnsure products are organized, neatly aligned, price tags visible\n\nReport out-of-stock items to store manager\n\nCheck expiry dates while stocking; remove expired products\n\n2-Person Verification: One staff member stocks; another verifies"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.docx",
+          "title": "Store Operations SOP",
+          "page": 1,
+          "sheet_name": null,
+          "category": "General",
+          "content": "₹5,000 per register\n\nSupervisor\n\n\n\nFridge/Freezer Temp Check\n\nCashier\n\n5 min\n\n0-4°C / -18°C\n\nStore Manager\n\n\n\nShelf Stocking\n\nAll Staff\n\n20 min\n\nFIFO, no gaps, tags visible\n\nStaff Pair\n\n\n\nPromotional Displays\n\nDesignated Employee\n\n15 min\n\nPer planogram\n\nVisual Merch\n\n\n\nRestroom Prep\n\nDesignated Employee\n\n10 min\n\nClean, stocked, logged\n\nStaff\n\n\n\nStaff Briefing\n\nStore Manager\n\n10 min\n\nTargets, shifts assigned\n\nManager\n\n\n\n\n\n\n\nSECTION 2: STORE CLOSING"
+        }
+      ],
+      "message_id": "c754f795-7090-491c-a417-5817abee4996",
+      "timestamp": "2026-09-17T05:30:09.590Z"
+    },
+    {
+      "role": "user",
+      "content": "Who won the 2022 World Cup?",
+      "timestamp": "2026-09-17T05:30:51.426Z"
+    },
+    {
+      "role": "assistant",
+      "content": "i can answer questions only related to retail SOP",
+      "citations": [],
+      "message_id": "fe14f37e-e2d8-4f83-ad16-d8d98c89f04e",
+      "timestamp": "2026-09-17T05:30:51.426Z"
+    }
+  ],
+  "testuser_1789533945919": [
+    {
+      "role": "user",
+      "content": "What is the return verification requirement for cashiers?",
+      "timestamp": "2026-09-16T04:45:48.936Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the uploaded document(s):\n\n- Cashiers must verify original sales receipt for all customer returns under fifty dollars. *(Source: Returns Policy)*",
+      "citations": [
+        {
+          "source": "test_returns_policy.pdf",
+          "title": "Returns Policy",
+          "page": 1,
+          "sheet_name": null,
+          "category": "Returns",
+          "content": "Cashiers must verify original sales receipt for all customer returns under fifty dollars."
+        }
+      ],
+      "message_id": "7003be4a-d103-4e08-a698-26c23e431986",
+      "timestamp": "2026-09-16T04:45:48.936Z"
+    },
+    {
+      "role": "user",
+      "content": "What are the storage conditions for Organic Milk?",
+      "timestamp": "2026-09-16T04:45:50.443Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the uploaded document(s):\n\n- --- Sheet: Inventory (Document: Inventory Specs) ---\nItem Code,Item Name,Stock Level,Storage Condition\nSKU101,Organic Milk,45,Refrigerated at four degrees\nSKU102,Artisan Bread,20,Dry ambient shelf *(Source: Inventory Specs)*",
+      "citations": [
+        {
+          "source": "test_inventory_data.xlsx",
+          "title": "Inventory Specs",
+          "page": 1,
+          "sheet_name": "Inventory",
+          "category": "Stock",
+          "content": "--- Sheet: Inventory (Document: Inventory Specs) ---\nItem Code,Item Name,Stock Level,Storage Condition\nSKU101,Organic Milk,45,Refrigerated at four degrees\nSKU102,Artisan Bread,20,Dry ambient shelf"
+        }
+      ],
+      "message_id": "b055dbed-40b9-45d9-822d-22123ff0d55d",
+      "timestamp": "2026-09-16T04:45:50.443Z"
+    },
+    {
+      "role": "user",
+      "content": "What is the orbital speed of Jupiter around the sun in kilometers per hour?",
+      "timestamp": "2026-09-16T04:45:51.755Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the uploaded document(s):\n\n- Store Operating Hours: Monday through Saturday 8:00 AM to 10:00 PM. *(Source: Store Hours)*",
+      "citations": [
+        {
+          "source": "test_pricing_rules.csv",
+          "title": "Pricing Rules",
+          "page": 1,
+          "sheet_name": null,
+          "category": "Pricing",
+          "content": "--- CSV Data: Pricing Rules ---\nRule ID,Discount Type,Policy Detail\nR-1,Senior Discount,Ten percent off every Tuesday\nR-2,Bulk Purchase,Five percent off on orders exceeding one hundred dollars"
+        },
+        {
+          "source": "test_store_hours.txt",
+          "title": "Store Hours",
+          "page": 1,
+          "sheet_name": null,
+          "category": "Operations",
+          "content": "Store Operating Hours: Monday through Saturday 8:00 AM to 10:00 PM. Sunday 10:00 AM to 6:00 PM."
+        }
+      ],
+      "message_id": "709f1194-34ae-4f25-93b1-a29e83a4ba15",
+      "timestamp": "2026-09-16T04:45:51.755Z"
+    },
+    {
+      "role": "user",
+      "content": "What is the return verification requirement?",
+      "timestamp": "2026-09-16T04:45:53.304Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Content not relevant to the uploaded document",
+      "citations": [],
+      "message_id": "84483755-f90b-49df-8a18-a79cf298354d",
+      "timestamp": "2026-09-16T04:45:53.304Z"
+    }
+  ],
+  "testuser_1789533985578": [
+    {
+      "role": "user",
+      "content": "What is the return verification requirement for cashiers?",
+      "timestamp": "2026-09-16T04:46:27.394Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the uploaded document(s):\n\n- Cashiers must verify original sales receipt for all customer returns under fifty dollars. *(Source: Returns Policy)*",
+      "citations": [
+        {
+          "source": "test_returns_policy.pdf",
+          "title": "Returns Policy",
+          "page": 1,
+          "sheet_name": null,
+          "category": "Returns",
+          "content": "Cashiers must verify original sales receipt for all customer returns under fifty dollars."
+        }
+      ],
+      "message_id": "a8e4806c-22a4-4d9b-b0cf-9d540b230caf",
+      "timestamp": "2026-09-16T04:46:27.394Z"
+    },
+    {
+      "role": "user",
+      "content": "What are the storage conditions for Organic Milk?",
+      "timestamp": "2026-09-16T04:46:28.725Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the uploaded document(s):\n\n- --- Sheet: Inventory (Document: Inventory Specs) ---\nItem Code,Item Name,Stock Level,Storage Condition\nSKU101,Organic Milk,45,Refrigerated at four degrees\nSKU102,Artisan Bread,20,Dry ambient shelf *(Source: Inventory Specs)*",
+      "citations": [
+        {
+          "source": "test_inventory_data.xlsx",
+          "title": "Inventory Specs",
+          "page": 1,
+          "sheet_name": "Inventory",
+          "category": "Stock",
+          "content": "--- Sheet: Inventory (Document: Inventory Specs) ---\nItem Code,Item Name,Stock Level,Storage Condition\nSKU101,Organic Milk,45,Refrigerated at four degrees\nSKU102,Artisan Bread,20,Dry ambient shelf"
+        }
+      ],
+      "message_id": "d824ed80-1b02-4490-9161-90d33059a29f",
+      "timestamp": "2026-09-16T04:46:28.725Z"
+    },
+    {
+      "role": "user",
+      "content": "What is the orbital speed of Jupiter around the sun in kilometers per hour?",
+      "timestamp": "2026-09-16T04:46:30.060Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Content not relevant to the uploaded document",
+      "citations": [],
+      "message_id": "6961d442-1d10-4472-a7f0-3b6e0b2f052a",
+      "timestamp": "2026-09-16T04:46:30.060Z"
+    },
+    {
+      "role": "user",
+      "content": "What is the return verification requirement?",
+      "timestamp": "2026-09-16T04:46:30.152Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Content not relevant to the uploaded document",
+      "citations": [],
+      "message_id": "8ffb5f92-cffe-42a0-8f75-187dfaaee9f4",
+      "timestamp": "2026-09-16T04:46:30.152Z"
+    }
+  ],
+  "testuser_1789534726522": [
+    {
+      "role": "user",
+      "content": "What is the return verification requirement for cashiers?",
+      "timestamp": "2026-09-16T04:58:48.767Z"
+    },
+    {
+      "role": "assistant",
+      "content": "i can answer questions only related to retail SOP",
+      "citations": [],
+      "message_id": "c7271694-bc90-4a3a-ab8d-350331e84b2d",
+      "timestamp": "2026-09-16T04:58:48.767Z"
+    },
+    {
+      "role": "user",
+      "content": "What is the return verification requirement?",
+      "timestamp": "2026-09-16T04:58:49.190Z"
+    },
+    {
+      "role": "assistant",
+      "content": "i can answer questions only related to retail SOP",
+      "citations": [],
+      "message_id": "7d3ce4ea-39bf-4f4b-aade-951751841c01",
+      "timestamp": "2026-09-16T04:58:49.190Z"
+    }
+  ],
+  "testuser_1789534747181": [
+    {
+      "role": "user",
+      "content": "What is the return verification requirement for cashiers?",
+      "timestamp": "2026-09-16T04:59:09.412Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the uploaded document(s):\n\n- Cashiers must verify original sales receipt for all customer returns under fifty dollars. *(Source: Returns Policy)*",
+      "citations": [
+        {
+          "source": "test_returns_policy.pdf",
+          "title": "Returns Policy",
+          "page": 1,
+          "sheet_name": null,
+          "category": "Returns",
+          "content": "Cashiers must verify original sales receipt for all customer returns under fifty dollars."
+        }
+      ],
+      "message_id": "d4219585-4fc4-4b57-a709-9f72067cb895",
+      "timestamp": "2026-09-16T04:59:09.412Z"
+    },
+    {
+      "role": "user",
+      "content": "What are the storage conditions for Organic Milk?",
+      "timestamp": "2026-09-16T04:59:10.800Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the uploaded document(s):\n\n- --- Sheet: Inventory (Document: Inventory Specs) ---\nItem Code,Item Name,Stock Level,Storage Condition\nSKU101,Organic Milk,45,Refrigerated at four degrees\nSKU102,Artisan Bread,20,Dry ambient shelf *(Source: Inventory Specs)*",
+      "citations": [
+        {
+          "source": "test_inventory_data.xlsx",
+          "title": "Inventory Specs",
+          "page": 1,
+          "sheet_name": "Inventory",
+          "category": "Stock",
+          "content": "--- Sheet: Inventory (Document: Inventory Specs) ---\nItem Code,Item Name,Stock Level,Storage Condition\nSKU101,Organic Milk,45,Refrigerated at four degrees\nSKU102,Artisan Bread,20,Dry ambient shelf"
+        }
+      ],
+      "message_id": "133d7f5f-bd42-46db-8690-a75ffe94f15a",
+      "timestamp": "2026-09-16T04:59:10.800Z"
+    },
+    {
+      "role": "user",
+      "content": "What is the orbital speed of Jupiter around the sun in kilometers per hour?",
+      "timestamp": "2026-09-16T04:59:12.336Z"
+    },
+    {
+      "role": "assistant",
+      "content": "i can answer questions only related to retail SOP",
+      "citations": [],
+      "message_id": "528a7eea-38dd-4d83-8f0c-456937334aed",
+      "timestamp": "2026-09-16T04:59:12.336Z"
+    },
+    {
+      "role": "user",
+      "content": "What is the return verification requirement?",
+      "timestamp": "2026-09-16T04:59:12.717Z"
+    },
+    {
+      "role": "assistant",
+      "content": "i can answer questions only related to retail SOP",
+      "citations": [],
+      "message_id": "ad77608d-aeb8-46ee-b851-418d12d93dce",
+      "timestamp": "2026-09-16T04:59:12.717Z"
+    }
+  ],
+  "testuser_1789536273569": [
+    {
+      "role": "user",
+      "content": "What is the return verification requirement for cashiers?",
+      "timestamp": "2026-09-16T05:24:39.988Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the SOP guidelines:\n\n• Review promotional planogram for the day.\n\n• Identify any damaged products for return/disposal.\n\n• Person Verification: One staff member stocks; another verifies.\n\n• All cashiers count cash drawer amounts independently.\n\n• Person Verification: Visual merchandiser + assistant manager.",
+      "citations": [
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 4,
+          "sheet_name": null,
+          "category": "General",
+          "content": "• 2-Person Verification: One staff member stocks; another verifies \nStep 7: Promotional Displays Setup (15 mins) \n• Review promotional planogram for the day \n• Set up promotional displays in designated high-traffic areas \n• Ensure proper signage, pricing, and product arrangement \n• Validate all promotional items are in stock \n• Take photo of display for records \n• Report any issues with display materials to manager \n• 2-Person Verification: Visual merchandiser + assistant manager"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 6,
+          "sheet_name": null,
+          "category": "General",
+          "content": "• Move 'Closed' sign to clearly visible location \n• 2-Person Verification: Cashier announces; manager confirms \nStep 2: Cash Reconciliation (10 mins) \n• All cashiers count cash drawer amounts independently \n• Compare drawer count with POS system reading \n• Acceptable variance: Less than 0.5% of daily sales \n• Record all discrepancies in cash reconciliation log \n• Two employees verify counts and sign reconciliation report \n• Escalate variances >0.5% to store manager for investigation"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 6,
+          "sheet_name": null,
+          "category": "General",
+          "content": "• 2-Person Verification: Visual inspection by supervisor \nStep 4: Waste Disposal (10 mins) \n• Empty all trash cans into dumpster \n• Dispose of cardboard boxes and packaging materials properly \n• Identify any damaged products for return/disposal \n• Check expiry dates on all visible products \n• Record damaged/expired items in disposal log with photos \n• Ensure dumpster area is clean and secured \n• 2-Person Verification: Staff member documents; manager approves"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 7,
+          "sheet_name": null,
+          "category": "General",
+          "content": "• Manager signs off on handover log with time and date \n• Log includes: cash amount, inventory discrepancies, issues found \n• Any unresolved items noted for next manager/shift \n• Handover log archived for audits and review \n• All staff members acknowledge receipt of shift information \n• 2-Person Verification: Closing manager + next shift manager \nStore Closing Checklist \nTask Responsible Duration Standard Verified By \n✓ \nClosing Cashiers 5 min 15 min + close Manager"
+        }
+      ],
+      "message_id": "0d7567fd-5f5d-48ce-9045-14d193685970",
+      "timestamp": "2026-09-16T05:24:39.988Z"
+    },
+    {
+      "role": "user",
+      "content": "What are the storage conditions for Organic Milk?",
+      "timestamp": "2026-09-16T05:24:41.560Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the SOP guidelines:\n\n• Store closing procedures have a total duration of 30 minutes after the last customer leaves.\n\n• Item Code,Item Name,Stock Level,Storage Condition.\n\n• SKU101,Organic Milk,45,Refrigerated at four degrees.\n\n• Objective: To ensure the store is ready for business and staff are briefed on sales targets and shift.",
+      "citations": [
+        {
+          "source": "test_inventory_data.xlsx",
+          "title": "Inventory Specs",
+          "page": 1,
+          "sheet_name": "Inventory",
+          "category": "Stock",
+          "content": "--- Sheet: Inventory (Document: Inventory Specs) ---\nItem Code,Item Name,Stock Level,Storage Condition\nSKU101,Organic Milk,45,Refrigerated at four degrees\nSKU102,Artisan Bread,20,Dry ambient shelf"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 3,
+          "sheet_name": null,
+          "category": "General",
+          "content": "3 \nSECTION 1: STORE OPENING \nObjective: To ensure the store is ready for business and staff are briefed on sales targets and shift \nassignments. \nTotal Duration: 45 minutes before opening \nOpening Procedures (9 Steps) \nStep 1: External Security Check (10 mins) \n• Designated employee performs external security check \n• Verify all windows and doors are secure \n• Check for signs of tampering or forced entry \n• Report any suspicious activity immediately to store manager"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 4,
+          "sheet_name": null,
+          "category": "General",
+          "content": "• 2-Person Verification: One staff member stocks; another verifies \nStep 7: Promotional Displays Setup (15 mins) \n• Review promotional planogram for the day \n• Set up promotional displays in designated high-traffic areas \n• Ensure proper signage, pricing, and product arrangement \n• Validate all promotional items are in stock \n• Take photo of display for records \n• Report any issues with display materials to manager \n• 2-Person Verification: Visual merchandiser + assistant manager"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 6,
+          "sheet_name": null,
+          "category": "General",
+          "content": "6 \nSECTION 2: STORE CLOSING \nObjective: To ensure the store is properly closed, secured, and ready for the next day. \nTotal Duration: 30 minutes after last customer \nClosing Procedures (8 Steps) \nStep 1: Closing Announcement Protocol (5 mins) \n• Make announcement 15 minutes before closing: 'Store closing in 15 minutes' \n• Make announcement at closing time: 'Store is now closed' \n• Lock all entrance doors immediately after last customer \n• Turn off 'Open' sign and external lights"
+        }
+      ],
+      "message_id": "eb66c974-1c90-4d2d-8c2b-d610dbfc00fa",
+      "timestamp": "2026-09-16T05:24:41.560Z"
+    },
+    {
+      "role": "user",
+      "content": "What is the orbital speed of Jupiter around the sun in kilometers per hour?",
+      "timestamp": "2026-09-16T05:24:43.123Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the SOP guidelines:\n\n• Store closing procedures have a total duration of 30 minutes after the last customer leaves.\n\n• Objective: To ensure the store is ready for business and staff are briefed on sales targets and shift.\n\n• Designated employee performs external security check.\n\n• Review promotional planogram for the day.",
+      "citations": [
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 3,
+          "sheet_name": null,
+          "category": "General",
+          "content": "3 \nSECTION 1: STORE OPENING \nObjective: To ensure the store is ready for business and staff are briefed on sales targets and shift \nassignments. \nTotal Duration: 45 minutes before opening \nOpening Procedures (9 Steps) \nStep 1: External Security Check (10 mins) \n• Designated employee performs external security check \n• Verify all windows and doors are secure \n• Check for signs of tampering or forced entry \n• Report any suspicious activity immediately to store manager"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 4,
+          "sheet_name": null,
+          "category": "General",
+          "content": "• 2-Person Verification: One staff member stocks; another verifies \nStep 7: Promotional Displays Setup (15 mins) \n• Review promotional planogram for the day \n• Set up promotional displays in designated high-traffic areas \n• Ensure proper signage, pricing, and product arrangement \n• Validate all promotional items are in stock \n• Take photo of display for records \n• Report any issues with display materials to manager \n• 2-Person Verification: Visual merchandiser + assistant manager"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 42,
+          "sheet_name": null,
+          "category": "General",
+          "content": "Suspicious Person Avoid confrontation Notify \nmanager \nPolice if \nthreat \n \n \nSTAFF ACKNOWLEDGMENT: \n \nI acknowledge that I have received and read the Emergency Procedures Reference document. \nI understand my role in emergency situations and commit to following all procedures. \n \nStaff Name (Print): ___________________________ \nSignature: _________________ Date: __________"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 6,
+          "sheet_name": null,
+          "category": "General",
+          "content": "6 \nSECTION 2: STORE CLOSING \nObjective: To ensure the store is properly closed, secured, and ready for the next day. \nTotal Duration: 30 minutes after last customer \nClosing Procedures (8 Steps) \nStep 1: Closing Announcement Protocol (5 mins) \n• Make announcement 15 minutes before closing: 'Store closing in 15 minutes' \n• Make announcement at closing time: 'Store is now closed' \n• Lock all entrance doors immediately after last customer \n• Turn off 'Open' sign and external lights"
+        }
+      ],
+      "message_id": "2ae87068-fa89-486c-a662-aa14857a7b97",
+      "timestamp": "2026-09-16T05:24:43.123Z"
+    },
+    {
+      "role": "user",
+      "content": "What is the return verification requirement?",
+      "timestamp": "2026-09-16T05:24:44.685Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the SOP guidelines:\n\n• Review promotional planogram for the day.\n\n• Identify any damaged products for return/disposal.\n\n• Person Verification: One staff member stocks; another verifies.\n\n• Person Verification: Visual merchandiser + assistant manager.",
+      "citations": [
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 4,
+          "sheet_name": null,
+          "category": "General",
+          "content": "• 2-Person Verification: One staff member stocks; another verifies \nStep 7: Promotional Displays Setup (15 mins) \n• Review promotional planogram for the day \n• Set up promotional displays in designated high-traffic areas \n• Ensure proper signage, pricing, and product arrangement \n• Validate all promotional items are in stock \n• Take photo of display for records \n• Report any issues with display materials to manager \n• 2-Person Verification: Visual merchandiser + assistant manager"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 6,
+          "sheet_name": null,
+          "category": "General",
+          "content": "• 2-Person Verification: Visual inspection by supervisor \nStep 4: Waste Disposal (10 mins) \n• Empty all trash cans into dumpster \n• Dispose of cardboard boxes and packaging materials properly \n• Identify any damaged products for return/disposal \n• Check expiry dates on all visible products \n• Record damaged/expired items in disposal log with photos \n• Ensure dumpster area is clean and secured \n• 2-Person Verification: Staff member documents; manager approves"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 10,
+          "sheet_name": null,
+          "category": "General",
+          "content": "10 \nStep 4: Refund Policy \n• Refunds ≤₹500: Authorized by any cashier \n• Refunds >₹500: Requires store manager approval \n• Manager verifies receipt, product condition, return reason \n• Record all refunds in POS system with authorization code \n• Physical refund processed and receipt issued immediately \n• Return reason documented in refund log \n• Monthly refund analysis performed to identify trends \n• 2-Person Verification: Cashier processes; manager approves/verifies \nStep 5: Variance Thresholds"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 12,
+          "sheet_name": null,
+          "category": "General",
+          "content": "Step 2: Quality/Expiry Checks \n• Check manufacturing and expiry dates on all products \n• Reject products expiring within 30 days \n• Inspect packaging for damage, leaks, or contamination \n• For refrigerated items: Verify temperature chain maintained \n• Document any quality issues in GRN register \n• Segregate damaged goods for return/credit \n• Communicate return details to vendor \n• 2-Person Verification: Receiver + quality checker \nStep 3: FIFO Shelf Rotation"
+        }
+      ],
+      "message_id": "ec06f644-9b44-4e17-86eb-9ec07210b2c6",
+      "timestamp": "2026-09-16T05:24:44.685Z"
+    }
+  ],
+  "testuser_1789536335070": [
+    {
+      "role": "user",
+      "content": "What is the return verification requirement for cashiers?",
+      "timestamp": "2026-09-16T05:25:40.681Z"
+    },
+    {
+      "role": "assistant",
+      "content": "i can answer questions only related to retail SOP",
+      "citations": [],
+      "message_id": "fa932845-f596-497c-ade2-7409d1553917",
+      "timestamp": "2026-09-16T05:25:40.681Z"
+    },
+    {
+      "role": "user",
+      "content": "What is the return verification requirement?",
+      "timestamp": "2026-09-16T05:25:42.239Z"
+    },
+    {
+      "role": "assistant",
+      "content": "i can answer questions only related to retail SOP",
+      "citations": [],
+      "message_id": "e2a69e70-5eaa-4976-9cc0-2abccb354876",
+      "timestamp": "2026-09-16T05:25:42.239Z"
+    }
+  ],
+  "testuser_1789536383988": [
+    {
+      "role": "user",
+      "content": "What is the return verification requirement?",
+      "timestamp": "2026-09-16T05:26:29.093Z"
+    },
+    {
+      "role": "assistant",
+      "content": "i can answer questions only related to retail SOP",
+      "citations": [],
+      "message_id": "b8706c85-13ad-4340-8eec-51e0a985d669",
+      "timestamp": "2026-09-16T05:26:29.093Z"
+    }
+  ],
+  "testuser_1789536410027": [
+    {
+      "role": "user",
+      "content": "What is the return verification requirement for cashiers?",
+      "timestamp": "2026-09-16T05:26:53.685Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the SOP guidelines:\n\n• Person Verification: Cashier processes; manager approves/verifies.\n\n• Person Verification: Cashier and supervisor both sign off.\n\n• Person Verification: Cashier announces; manager confirms.",
+      "citations": [
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 10,
+          "sheet_name": null,
+          "category": "General",
+          "content": "10 \nStep 4: Refund Policy \n• Refunds ≤₹500: Authorized by any cashier \n• Refunds >₹500: Requires store manager approval \n• Manager verifies receipt, product condition, return reason \n• Record all refunds in POS system with authorization code \n• Physical refund processed and receipt issued immediately \n• Return reason documented in refund log \n• Monthly refund analysis performed to identify trends \n• 2-Person Verification: Cashier processes; manager approves/verifies \nStep 5: Variance Thresholds"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 3,
+          "sheet_name": null,
+          "category": "General",
+          "content": "• Record float amount in cash register log with time and initials \n• Any variance >₹100 from ₹5,000: Report to store manager \n• 2-Person Verification: Cashier and supervisor both sign off \nStep 5: Refrigeration Temperature Check (5 mins) \n• Check temperature of all refrigerators: Target 0-4°C \n• Check temperature of all freezers: Target -18°C or below \n• Use calibrated thermometer for accuracy \n• Record all temperatures in refrigerator log \n• Temperature deviation tolerance: ±1°C acceptable"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 4,
+          "sheet_name": null,
+          "category": "General",
+          "content": "• 2-Person Verification: One staff member stocks; another verifies \nStep 7: Promotional Displays Setup (15 mins) \n• Review promotional planogram for the day \n• Set up promotional displays in designated high-traffic areas \n• Ensure proper signage, pricing, and product arrangement \n• Validate all promotional items are in stock \n• Take photo of display for records \n• Report any issues with display materials to manager \n• 2-Person Verification: Visual merchandiser + assistant manager"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 6,
+          "sheet_name": null,
+          "category": "General",
+          "content": "• Move 'Closed' sign to clearly visible location \n• 2-Person Verification: Cashier announces; manager confirms \nStep 2: Cash Reconciliation (10 mins) \n• All cashiers count cash drawer amounts independently \n• Compare drawer count with POS system reading \n• Acceptable variance: Less than 0.5% of daily sales \n• Record all discrepancies in cash reconciliation log \n• Two employees verify counts and sign reconciliation report \n• Escalate variances >0.5% to store manager for investigation"
+        }
+      ],
+      "message_id": "b1abf171-014b-4c16-b412-0db6107bdba0",
+      "timestamp": "2026-09-16T05:26:53.685Z"
+    },
+    {
+      "role": "user",
+      "content": "What are the storage conditions for Organic Milk?",
+      "timestamp": "2026-09-16T05:26:55.078Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the SOP guidelines:\n\n• Item Code,Item Name,Stock Level,Storage Condition.\n\n• SKU101,Organic Milk,45,Refrigerated at four degrees.",
+      "citations": [
+        {
+          "source": "test_inventory_data.xlsx",
+          "title": "Inventory Specs",
+          "page": 1,
+          "sheet_name": "Inventory",
+          "category": "Stock",
+          "content": "--- Sheet: Inventory (Document: Inventory Specs) ---\nItem Code,Item Name,Stock Level,Storage Condition\nSKU101,Organic Milk,45,Refrigerated at four degrees\nSKU102,Artisan Bread,20,Dry ambient shelf"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 3,
+          "sheet_name": null,
+          "category": "General",
+          "content": "3 \nSECTION 1: STORE OPENING \nObjective: To ensure the store is ready for business and staff are briefed on sales targets and shift \nassignments. \nTotal Duration: 45 minutes before opening \nOpening Procedures (9 Steps) \nStep 1: External Security Check (10 mins) \n• Designated employee performs external security check \n• Verify all windows and doors are secure \n• Check for signs of tampering or forced entry \n• Report any suspicious activity immediately to store manager"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 4,
+          "sheet_name": null,
+          "category": "General",
+          "content": "• 2-Person Verification: One staff member stocks; another verifies \nStep 7: Promotional Displays Setup (15 mins) \n• Review promotional planogram for the day \n• Set up promotional displays in designated high-traffic areas \n• Ensure proper signage, pricing, and product arrangement \n• Validate all promotional items are in stock \n• Take photo of display for records \n• Report any issues with display materials to manager \n• 2-Person Verification: Visual merchandiser + assistant manager"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 6,
+          "sheet_name": null,
+          "category": "General",
+          "content": "6 \nSECTION 2: STORE CLOSING \nObjective: To ensure the store is properly closed, secured, and ready for the next day. \nTotal Duration: 30 minutes after last customer \nClosing Procedures (8 Steps) \nStep 1: Closing Announcement Protocol (5 mins) \n• Make announcement 15 minutes before closing: 'Store closing in 15 minutes' \n• Make announcement at closing time: 'Store is now closed' \n• Lock all entrance doors immediately after last customer \n• Turn off 'Open' sign and external lights"
+        }
+      ],
+      "message_id": "bc05e452-1d68-4f06-bd8d-10a29576ade8",
+      "timestamp": "2026-09-16T05:26:55.078Z"
+    },
+    {
+      "role": "user",
+      "content": "What is the orbital speed of Jupiter around the sun in kilometers per hour?",
+      "timestamp": "2026-09-16T05:26:56.378Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the SOP guidelines:\n\n• Remember regular customers and their preferences.\n\n• Create themed displays for holidays/events.\n\n• Objective: To ensure the store is ready for business and staff are briefed on sales targets and shift.\n\n• Review promotional planogram for the day.",
+      "citations": [
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 15,
+          "sheet_name": null,
+          "category": "General",
+          "content": "Service Protocols \nGreeting Protocol \n• Greet every customer within 10 seconds of store entry \n• Use friendly, authentic tone: 'Hello! Welcome in!' \n• Make eye contact and smile \n• If store is busy: 'I'll be with you in just a moment' \n• Offer assistance: 'Can I help you find anything?' \n• Remember regular customers and their preferences \n• 2-Person Verification: Mystery shopper audits monthly \nCheckout Experience \n• Scan items accurately and at reasonable speed"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 22,
+          "sheet_name": null,
+          "category": "General",
+          "content": "22 \n• Cross-merchandise with complementary items \n• Update displays weekly or per promotion schedule \n• 2-Person Verification: Visual merchandiser + store manager \nSeasonal/Special Displays \n• Plan displays 2 weeks before seasonal events \n• Create themed displays for holidays/events \n• Use decorations to enhance store atmosphere \n• Ensure displays reflect current trends \n• Highlight seasonal products prominently \n• Train staff on seasonal selling points \n• Update displays every 2 weeks minimum"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 3,
+          "sheet_name": null,
+          "category": "General",
+          "content": "3 \nSECTION 1: STORE OPENING \nObjective: To ensure the store is ready for business and staff are briefed on sales targets and shift \nassignments. \nTotal Duration: 45 minutes before opening \nOpening Procedures (9 Steps) \nStep 1: External Security Check (10 mins) \n• Designated employee performs external security check \n• Verify all windows and doors are secure \n• Check for signs of tampering or forced entry \n• Report any suspicious activity immediately to store manager"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 4,
+          "sheet_name": null,
+          "category": "General",
+          "content": "• 2-Person Verification: One staff member stocks; another verifies \nStep 7: Promotional Displays Setup (15 mins) \n• Review promotional planogram for the day \n• Set up promotional displays in designated high-traffic areas \n• Ensure proper signage, pricing, and product arrangement \n• Validate all promotional items are in stock \n• Take photo of display for records \n• Report any issues with display materials to manager \n• 2-Person Verification: Visual merchandiser + assistant manager"
+        }
+      ],
+      "message_id": "c0ac3afe-1ab3-4035-a84f-fb61d88b7e4b",
+      "timestamp": "2026-09-16T05:26:56.378Z"
+    },
+    {
+      "role": "user",
+      "content": "What is the return verification requirement?",
+      "timestamp": "2026-09-16T05:26:57.858Z"
+    },
+    {
+      "role": "assistant",
+      "content": "i can answer questions only related to retail SOP",
+      "citations": [],
+      "message_id": "21fae4f2-4543-42be-a683-41e298949162",
+      "timestamp": "2026-09-16T05:26:57.858Z"
+    }
+  ],
+  "testuser_1789536449122": [
+    {
+      "role": "user",
+      "content": "What is the return verification requirement for cashiers?",
+      "timestamp": "2026-09-16T05:27:35.610Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the SOP guidelines:\n\n• Person Verification: Cashier processes; manager approves/verifies.\n\n• Person Verification: Cashier and supervisor both sign off.\n\n• Person Verification: Cashier announces; manager confirms.",
+      "citations": [
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 10,
+          "sheet_name": null,
+          "category": "General",
+          "content": "10 \nStep 4: Refund Policy \n• Refunds ≤₹500: Authorized by any cashier \n• Refunds >₹500: Requires store manager approval \n• Manager verifies receipt, product condition, return reason \n• Record all refunds in POS system with authorization code \n• Physical refund processed and receipt issued immediately \n• Return reason documented in refund log \n• Monthly refund analysis performed to identify trends \n• 2-Person Verification: Cashier processes; manager approves/verifies \nStep 5: Variance Thresholds"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 3,
+          "sheet_name": null,
+          "category": "General",
+          "content": "• Record float amount in cash register log with time and initials \n• Any variance >₹100 from ₹5,000: Report to store manager \n• 2-Person Verification: Cashier and supervisor both sign off \nStep 5: Refrigeration Temperature Check (5 mins) \n• Check temperature of all refrigerators: Target 0-4°C \n• Check temperature of all freezers: Target -18°C or below \n• Use calibrated thermometer for accuracy \n• Record all temperatures in refrigerator log \n• Temperature deviation tolerance: ±1°C acceptable"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 4,
+          "sheet_name": null,
+          "category": "General",
+          "content": "• 2-Person Verification: One staff member stocks; another verifies \nStep 7: Promotional Displays Setup (15 mins) \n• Review promotional planogram for the day \n• Set up promotional displays in designated high-traffic areas \n• Ensure proper signage, pricing, and product arrangement \n• Validate all promotional items are in stock \n• Take photo of display for records \n• Report any issues with display materials to manager \n• 2-Person Verification: Visual merchandiser + assistant manager"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 6,
+          "sheet_name": null,
+          "category": "General",
+          "content": "• Move 'Closed' sign to clearly visible location \n• 2-Person Verification: Cashier announces; manager confirms \nStep 2: Cash Reconciliation (10 mins) \n• All cashiers count cash drawer amounts independently \n• Compare drawer count with POS system reading \n• Acceptable variance: Less than 0.5% of daily sales \n• Record all discrepancies in cash reconciliation log \n• Two employees verify counts and sign reconciliation report \n• Escalate variances >0.5% to store manager for investigation"
+        }
+      ],
+      "message_id": "a0352b82-2d97-4003-8f7a-655d4123afff",
+      "timestamp": "2026-09-16T05:27:35.610Z"
+    },
+    {
+      "role": "user",
+      "content": "What are the storage conditions for Organic Milk?",
+      "timestamp": "2026-09-16T05:27:37.141Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the SOP guidelines:\n\n• Item Code,Item Name,Stock Level,Storage Condition.\n\n• SKU101,Organic Milk,45,Refrigerated at four degrees.",
+      "citations": [
+        {
+          "source": "test_inventory_data.xlsx",
+          "title": "Inventory Specs",
+          "page": 1,
+          "sheet_name": "Inventory",
+          "category": "Stock",
+          "content": "--- Sheet: Inventory (Document: Inventory Specs) ---\nItem Code,Item Name,Stock Level,Storage Condition\nSKU101,Organic Milk,45,Refrigerated at four degrees\nSKU102,Artisan Bread,20,Dry ambient shelf"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 3,
+          "sheet_name": null,
+          "category": "General",
+          "content": "3 \nSECTION 1: STORE OPENING \nObjective: To ensure the store is ready for business and staff are briefed on sales targets and shift \nassignments. \nTotal Duration: 45 minutes before opening \nOpening Procedures (9 Steps) \nStep 1: External Security Check (10 mins) \n• Designated employee performs external security check \n• Verify all windows and doors are secure \n• Check for signs of tampering or forced entry \n• Report any suspicious activity immediately to store manager"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 4,
+          "sheet_name": null,
+          "category": "General",
+          "content": "• 2-Person Verification: One staff member stocks; another verifies \nStep 7: Promotional Displays Setup (15 mins) \n• Review promotional planogram for the day \n• Set up promotional displays in designated high-traffic areas \n• Ensure proper signage, pricing, and product arrangement \n• Validate all promotional items are in stock \n• Take photo of display for records \n• Report any issues with display materials to manager \n• 2-Person Verification: Visual merchandiser + assistant manager"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 6,
+          "sheet_name": null,
+          "category": "General",
+          "content": "6 \nSECTION 2: STORE CLOSING \nObjective: To ensure the store is properly closed, secured, and ready for the next day. \nTotal Duration: 30 minutes after last customer \nClosing Procedures (8 Steps) \nStep 1: Closing Announcement Protocol (5 mins) \n• Make announcement 15 minutes before closing: 'Store closing in 15 minutes' \n• Make announcement at closing time: 'Store is now closed' \n• Lock all entrance doors immediately after last customer \n• Turn off 'Open' sign and external lights"
+        }
+      ],
+      "message_id": "0684cd8e-6f90-4004-bf55-4620a93582b6",
+      "timestamp": "2026-09-16T05:27:37.141Z"
+    },
+    {
+      "role": "user",
+      "content": "What is the orbital speed of Jupiter around the sun in kilometers per hour?",
+      "timestamp": "2026-09-16T05:27:38.873Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the SOP guidelines:\n\n• Store closing procedures have a total duration of 30 minutes after the last customer leaves.\n\n• Objective: To ensure the store is ready for business and staff are briefed on sales targets and shift.\n\n• Review promotional planogram for the day.\n\n• Objective: To ensure the store is properly closed, secured, and ready for the next day.",
+      "citations": [
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 15,
+          "sheet_name": null,
+          "category": "General",
+          "content": "Service Protocols \nGreeting Protocol \n• Greet every customer within 10 seconds of store entry \n• Use friendly, authentic tone: 'Hello! Welcome in!' \n• Make eye contact and smile \n• If store is busy: 'I'll be with you in just a moment' \n• Offer assistance: 'Can I help you find anything?' \n• Remember regular customers and their preferences \n• 2-Person Verification: Mystery shopper audits monthly \nCheckout Experience \n• Scan items accurately and at reasonable speed"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 3,
+          "sheet_name": null,
+          "category": "General",
+          "content": "3 \nSECTION 1: STORE OPENING \nObjective: To ensure the store is ready for business and staff are briefed on sales targets and shift \nassignments. \nTotal Duration: 45 minutes before opening \nOpening Procedures (9 Steps) \nStep 1: External Security Check (10 mins) \n• Designated employee performs external security check \n• Verify all windows and doors are secure \n• Check for signs of tampering or forced entry \n• Report any suspicious activity immediately to store manager"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 4,
+          "sheet_name": null,
+          "category": "General",
+          "content": "• 2-Person Verification: One staff member stocks; another verifies \nStep 7: Promotional Displays Setup (15 mins) \n• Review promotional planogram for the day \n• Set up promotional displays in designated high-traffic areas \n• Ensure proper signage, pricing, and product arrangement \n• Validate all promotional items are in stock \n• Take photo of display for records \n• Report any issues with display materials to manager \n• 2-Person Verification: Visual merchandiser + assistant manager"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 6,
+          "sheet_name": null,
+          "category": "General",
+          "content": "6 \nSECTION 2: STORE CLOSING \nObjective: To ensure the store is properly closed, secured, and ready for the next day. \nTotal Duration: 30 minutes after last customer \nClosing Procedures (8 Steps) \nStep 1: Closing Announcement Protocol (5 mins) \n• Make announcement 15 minutes before closing: 'Store closing in 15 minutes' \n• Make announcement at closing time: 'Store is now closed' \n• Lock all entrance doors immediately after last customer \n• Turn off 'Open' sign and external lights"
+        }
+      ],
+      "message_id": "62dbd2cc-3c72-4744-8adb-a08165cb4035",
+      "timestamp": "2026-09-16T05:27:38.873Z"
+    },
+    {
+      "role": "user",
+      "content": "What is the return verification requirement?",
+      "timestamp": "2026-09-16T05:27:41.135Z"
+    },
+    {
+      "role": "assistant",
+      "content": "i can answer questions only related to retail SOP",
+      "citations": [],
+      "message_id": "6ebe1503-db63-47a4-987d-189502106193",
+      "timestamp": "2026-09-16T05:27:41.135Z"
+    }
+  ],
+  "testuser_1789536529491": [
+    {
+      "role": "user",
+      "content": "What is the return verification requirement for cashiers?",
+      "timestamp": "2026-09-16T05:28:56.814Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the SOP guidelines:\n\n• Person Verification: Cashier processes; manager approves/verifies.\n\n• Person Verification: Cashier and supervisor both sign off.",
+      "citations": [
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 10,
+          "sheet_name": null,
+          "category": "General",
+          "content": "10 \nStep 4: Refund Policy \n• Refunds ≤₹500: Authorized by any cashier \n• Refunds >₹500: Requires store manager approval \n• Manager verifies receipt, product condition, return reason \n• Record all refunds in POS system with authorization code \n• Physical refund processed and receipt issued immediately \n• Return reason documented in refund log \n• Monthly refund analysis performed to identify trends \n• 2-Person Verification: Cashier processes; manager approves/verifies \nStep 5: Variance Thresholds"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 3,
+          "sheet_name": null,
+          "category": "General",
+          "content": "• Record float amount in cash register log with time and initials \n• Any variance >₹100 from ₹5,000: Report to store manager \n• 2-Person Verification: Cashier and supervisor both sign off \nStep 5: Refrigeration Temperature Check (5 mins) \n• Check temperature of all refrigerators: Target 0-4°C \n• Check temperature of all freezers: Target -18°C or below \n• Use calibrated thermometer for accuracy \n• Record all temperatures in refrigerator log \n• Temperature deviation tolerance: ±1°C acceptable"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 4,
+          "sheet_name": null,
+          "category": "General",
+          "content": "• 2-Person Verification: One staff member stocks; another verifies \nStep 7: Promotional Displays Setup (15 mins) \n• Review promotional planogram for the day \n• Set up promotional displays in designated high-traffic areas \n• Ensure proper signage, pricing, and product arrangement \n• Validate all promotional items are in stock \n• Take photo of display for records \n• Report any issues with display materials to manager \n• 2-Person Verification: Visual merchandiser + assistant manager"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 5,
+          "sheet_name": null,
+          "category": "General",
+          "content": "5 \nDeactivation \nPOS Boot-Up \nIT/Cashier 5 min All \nterminals \nonline \nSupervisor  \nCash Float \nVerification \nCashier 5 min ₹5,000 per \nregister \nSupervisor  \nFridge/Freezer \nTemp Check \nCashier 5 min 0-4°C / -\n18°C \nStore \nManager \n \nShelf Stocking \nAll Staff 20 min FIFO, no \ngaps, tags \nvisible \nStaff Pair  \nPromotional \nDisplays \nDesignated Employee 15 min Per \nplanogram \nVisual \nMerch \n \nRestroom Prep Designated Employee 10 min Clean, \nstocked, \nlogged \nStaff"
+        }
+      ],
+      "message_id": "773a8dac-cb07-428c-b8ad-60c1d7900bad",
+      "timestamp": "2026-09-16T05:28:56.814Z"
+    },
+    {
+      "role": "user",
+      "content": "What are the storage conditions for Organic Milk?",
+      "timestamp": "2026-09-16T05:28:58.304Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the SOP guidelines:\n\n• SKU101,Organic Milk,45,Refrigerated at four degrees.",
+      "citations": [
+        {
+          "source": "test_inventory_data.xlsx",
+          "title": "Inventory Specs",
+          "page": 1,
+          "sheet_name": "Inventory",
+          "category": "Stock",
+          "content": "--- Sheet: Inventory (Document: Inventory Specs) ---\nItem Code,Item Name,Stock Level,Storage Condition\nSKU101,Organic Milk,45,Refrigerated at four degrees\nSKU102,Artisan Bread,20,Dry ambient shelf"
+        }
+      ],
+      "message_id": "671752b1-e65e-46d4-a3cc-58290ba2f776",
+      "timestamp": "2026-09-16T05:28:58.304Z"
+    },
+    {
+      "role": "user",
+      "content": "What is the orbital speed of Jupiter around the sun in kilometers per hour?",
+      "timestamp": "2026-09-16T05:28:58.351Z"
+    },
+    {
+      "role": "assistant",
+      "content": "i can answer questions only related to retail SOP",
+      "citations": [],
+      "message_id": "66cd39a1-15c6-41f0-aaac-d550640737da",
+      "timestamp": "2026-09-16T05:28:58.351Z"
+    },
+    {
+      "role": "user",
+      "content": "What is the return verification requirement?",
+      "timestamp": "2026-09-16T05:29:00.166Z"
+    },
+    {
+      "role": "assistant",
+      "content": "i can answer questions only related to retail SOP",
+      "citations": [],
+      "message_id": "be8e7ad6-07b7-4c85-a576-784ef1ca9d48",
+      "timestamp": "2026-09-16T05:29:00.166Z"
+    }
+  ],
+  "testuser_1789536962462": [
+    {
+      "role": "user",
+      "content": "What is the return verification requirement for cashiers?",
+      "timestamp": "2026-09-16T05:36:06.153Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the SOP guidelines:\n\n• Person Verification: Cashier processes; manager approves/verifies.\n\n• Person Verification: Cashier generates; manager reviews.\n\n• Person Verification: Cashier and supervisor both sign off.",
+      "citations": [
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 10,
+          "sheet_name": null,
+          "category": "General",
+          "content": "10 \nStep 4: Refund Policy \n• Refunds ≤₹500: Authorized by any cashier \n• Refunds >₹500: Requires store manager approval \n• Manager verifies receipt, product condition, return reason \n• Record all refunds in POS system with authorization code \n• Physical refund processed and receipt issued immediately \n• Return reason documented in refund log \n• Monthly refund analysis performed to identify trends \n• 2-Person Verification: Cashier processes; manager approves/verifies \nStep 5: Variance Thresholds"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.docx",
+          "title": "Store Operations SOP",
+          "page": 1,
+          "sheet_name": null,
+          "category": "General",
+          "content": "Compare Z-report to drawer count\n\nAcceptable variance: ≤₹50 or <0.5%\n\nDocument any discrepancies with explanation\n\nReport significant variances (>0.5%) to store manager\n\nArchive Z-reports for 90-day audit trail\n\n2-Person Verification: Cashier generates; manager reviews\n\nStep 4: Refund Policy\n\nRefunds ≤₹500: Authorized by any cashier\n\nRefunds >₹500: Requires store manager approval\n\nManager verifies receipt, product condition, return reason\n\nRecord all refunds in POS system with authorization code"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.docx",
+          "title": "Store Operations SOP",
+          "page": 1,
+          "sheet_name": null,
+          "category": "General",
+          "content": "Physical refund processed and receipt issued immediately\n\nReturn reason documented in refund log\n\nMonthly refund analysis performed to identify trends\n\n2-Person Verification: Cashier processes; manager approves/verifies\n\nStep 5: Variance Thresholds\n\nDaily variance limit: <0.5% of daily sales\n\nWeekly variance limit: <0.25% of weekly sales\n\nMonthly variance limit: <0.20% of monthly sales\n\nVariance investigation: All cases >0.5% require documentation"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 3,
+          "sheet_name": null,
+          "category": "General",
+          "content": "• Record float amount in cash register log with time and initials \n• Any variance >₹100 from ₹5,000: Report to store manager \n• 2-Person Verification: Cashier and supervisor both sign off \nStep 5: Refrigeration Temperature Check (5 mins) \n• Check temperature of all refrigerators: Target 0-4°C \n• Check temperature of all freezers: Target -18°C or below \n• Use calibrated thermometer for accuracy \n• Record all temperatures in refrigerator log \n• Temperature deviation tolerance: ±1°C acceptable"
+        }
+      ],
+      "message_id": "94dba670-0587-4742-933a-abe69a5f8d73",
+      "timestamp": "2026-09-16T05:36:06.153Z"
+    },
+    {
+      "role": "user",
+      "content": "What are the storage conditions for Organic Milk?",
+      "timestamp": "2026-09-16T05:36:07.397Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the SOP guidelines:\n\n• SKU101,Organic Milk,45,Refrigerated at four degrees.",
+      "citations": [
+        {
+          "source": "test_inventory_data.xlsx",
+          "title": "Inventory Specs",
+          "page": 1,
+          "sheet_name": "Inventory",
+          "category": "Stock",
+          "content": "--- Sheet: Inventory (Document: Inventory Specs) ---\nItem Code,Item Name,Stock Level,Storage Condition\nSKU101,Organic Milk,45,Refrigerated at four degrees\nSKU102,Artisan Bread,20,Dry ambient shelf"
+        }
+      ],
+      "message_id": "a6cb20cb-3a60-4174-adc5-933d3a790d2e",
+      "timestamp": "2026-09-16T05:36:07.397Z"
+    },
+    {
+      "role": "user",
+      "content": "What is the orbital speed of Jupiter around the sun in kilometers per hour?",
+      "timestamp": "2026-09-16T05:36:07.409Z"
+    },
+    {
+      "role": "assistant",
+      "content": "i can answer questions only related to retail SOP",
+      "citations": [],
+      "message_id": "6f8198fd-66d8-4cfc-bf44-87bb8c57dd6f",
+      "timestamp": "2026-09-16T05:36:07.409Z"
+    },
+    {
+      "role": "user",
+      "content": "What is the return verification requirement?",
+      "timestamp": "2026-09-16T05:36:07.527Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the SOP guidelines:\n\n• Person Verification: Cashier processes; manager approves/verifies.\n\n• Person Verification: Cashier generates; manager reviews.\n\n• Person Verification: Cashier and supervisor both sign off.",
+      "citations": [
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 10,
+          "sheet_name": null,
+          "category": "General",
+          "content": "10 \nStep 4: Refund Policy \n• Refunds ≤₹500: Authorized by any cashier \n• Refunds >₹500: Requires store manager approval \n• Manager verifies receipt, product condition, return reason \n• Record all refunds in POS system with authorization code \n• Physical refund processed and receipt issued immediately \n• Return reason documented in refund log \n• Monthly refund analysis performed to identify trends \n• 2-Person Verification: Cashier processes; manager approves/verifies \nStep 5: Variance Thresholds"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.docx",
+          "title": "Store Operations SOP",
+          "page": 1,
+          "sheet_name": null,
+          "category": "General",
+          "content": "Compare Z-report to drawer count\n\nAcceptable variance: ≤₹50 or <0.5%\n\nDocument any discrepancies with explanation\n\nReport significant variances (>0.5%) to store manager\n\nArchive Z-reports for 90-day audit trail\n\n2-Person Verification: Cashier generates; manager reviews\n\nStep 4: Refund Policy\n\nRefunds ≤₹500: Authorized by any cashier\n\nRefunds >₹500: Requires store manager approval\n\nManager verifies receipt, product condition, return reason\n\nRecord all refunds in POS system with authorization code"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.docx",
+          "title": "Store Operations SOP",
+          "page": 1,
+          "sheet_name": null,
+          "category": "General",
+          "content": "Physical refund processed and receipt issued immediately\n\nReturn reason documented in refund log\n\nMonthly refund analysis performed to identify trends\n\n2-Person Verification: Cashier processes; manager approves/verifies\n\nStep 5: Variance Thresholds\n\nDaily variance limit: <0.5% of daily sales\n\nWeekly variance limit: <0.25% of weekly sales\n\nMonthly variance limit: <0.20% of monthly sales\n\nVariance investigation: All cases >0.5% require documentation"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 3,
+          "sheet_name": null,
+          "category": "General",
+          "content": "• Record float amount in cash register log with time and initials \n• Any variance >₹100 from ₹5,000: Report to store manager \n• 2-Person Verification: Cashier and supervisor both sign off \nStep 5: Refrigeration Temperature Check (5 mins) \n• Check temperature of all refrigerators: Target 0-4°C \n• Check temperature of all freezers: Target -18°C or below \n• Use calibrated thermometer for accuracy \n• Record all temperatures in refrigerator log \n• Temperature deviation tolerance: ±1°C acceptable"
+        }
+      ],
+      "message_id": "c63fe452-20d0-4062-8876-d62ce7a769ed",
+      "timestamp": "2026-09-16T05:36:07.527Z"
+    },
+    {
+      "role": "user",
+      "content": "What are the storage conditions for Organic Milk?",
+      "timestamp": "2026-09-16T05:36:07.551Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the SOP guidelines:\n\n• SKU101,Organic Milk,45,Refrigerated at four degrees.",
+      "citations": [
+        {
+          "source": "test_inventory_data.xlsx",
+          "title": "Inventory Specs",
+          "page": 1,
+          "sheet_name": "Inventory",
+          "category": "Stock",
+          "content": "--- Sheet: Inventory (Document: Inventory Specs) ---\nItem Code,Item Name,Stock Level,Storage Condition\nSKU101,Organic Milk,45,Refrigerated at four degrees\nSKU102,Artisan Bread,20,Dry ambient shelf"
+        }
+      ],
+      "message_id": "7a00a479-fdd5-40df-ae65-e7abb3d85945",
+      "timestamp": "2026-09-16T05:36:07.551Z"
+    },
+    {
+      "role": "user",
+      "content": "storage conditions for organic milk",
+      "timestamp": "2026-09-16T05:36:07.561Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the SOP guidelines:\n\n• SKU101,Organic Milk,45,Refrigerated at four degrees.",
+      "citations": [
+        {
+          "source": "test_inventory_data.xlsx",
+          "title": "Inventory Specs",
+          "page": 1,
+          "sheet_name": "Inventory",
+          "category": "Stock",
+          "content": "--- Sheet: Inventory (Document: Inventory Specs) ---\nItem Code,Item Name,Stock Level,Storage Condition\nSKU101,Organic Milk,45,Refrigerated at four degrees\nSKU102,Artisan Bread,20,Dry ambient shelf"
+        }
+      ],
+      "message_id": "9a32199d-2ba8-4483-bee2-8deb9e948065",
+      "timestamp": "2026-09-16T05:36:07.561Z"
+    },
+    {
+      "role": "user",
+      "content": "What are the storage conditions for Organic Milk?",
+      "timestamp": "2026-09-16T05:36:07.570Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the SOP guidelines:\n\n• SKU101,Organic Milk,45,Refrigerated at four degrees.",
+      "citations": [
+        {
+          "source": "test_inventory_data.xlsx",
+          "title": "Inventory Specs",
+          "page": 1,
+          "sheet_name": "Inventory",
+          "category": "Stock",
+          "content": "--- Sheet: Inventory (Document: Inventory Specs) ---\nItem Code,Item Name,Stock Level,Storage Condition\nSKU101,Organic Milk,45,Refrigerated at four degrees\nSKU102,Artisan Bread,20,Dry ambient shelf"
+        }
+      ],
+      "message_id": "fb43f399-3f49-4400-9b2b-4d620528eea0",
+      "timestamp": "2026-09-16T05:36:07.570Z"
+    }
+  ],
+  "testuser_1789538201502": [
+    {
+      "role": "user",
+      "content": "What is the return verification requirement for cashiers?",
+      "timestamp": "2026-09-16T05:56:46.128Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the SOP guidelines:\n\n• Manager verifies receipt, product condition, return reason.\n\n• Person Verification: Cashier processes; manager approves/verifies.\n\n• Person Verification: Cashier generates; manager reviews.\n\n• Person Verification: Cashier and supervisor both sign off.",
+      "citations": [
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 10,
+          "sheet_name": null,
+          "category": "General",
+          "content": "10 \nStep 4: Refund Policy \n• Refunds ≤₹500: Authorized by any cashier \n• Refunds >₹500: Requires store manager approval \n• Manager verifies receipt, product condition, return reason \n• Record all refunds in POS system with authorization code \n• Physical refund processed and receipt issued immediately \n• Return reason documented in refund log \n• Monthly refund analysis performed to identify trends \n• 2-Person Verification: Cashier processes; manager approves/verifies \nStep 5: Variance Thresholds"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.docx",
+          "title": "Store Operations SOP",
+          "page": 1,
+          "sheet_name": null,
+          "category": "General",
+          "content": "Compare Z-report to drawer count\n\nAcceptable variance: ≤₹50 or <0.5%\n\nDocument any discrepancies with explanation\n\nReport significant variances (>0.5%) to store manager\n\nArchive Z-reports for 90-day audit trail\n\n2-Person Verification: Cashier generates; manager reviews\n\nStep 4: Refund Policy\n\nRefunds ≤₹500: Authorized by any cashier\n\nRefunds >₹500: Requires store manager approval\n\nManager verifies receipt, product condition, return reason\n\nRecord all refunds in POS system with authorization code"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.docx",
+          "title": "Store Operations SOP",
+          "page": 1,
+          "sheet_name": null,
+          "category": "General",
+          "content": "Physical refund processed and receipt issued immediately\n\nReturn reason documented in refund log\n\nMonthly refund analysis performed to identify trends\n\n2-Person Verification: Cashier processes; manager approves/verifies\n\nStep 5: Variance Thresholds\n\nDaily variance limit: <0.5% of daily sales\n\nWeekly variance limit: <0.25% of weekly sales\n\nMonthly variance limit: <0.20% of monthly sales\n\nVariance investigation: All cases >0.5% require documentation"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 3,
+          "sheet_name": null,
+          "category": "General",
+          "content": "• Record float amount in cash register log with time and initials \n• Any variance >₹100 from ₹5,000: Report to store manager \n• 2-Person Verification: Cashier and supervisor both sign off \nStep 5: Refrigeration Temperature Check (5 mins) \n• Check temperature of all refrigerators: Target 0-4°C \n• Check temperature of all freezers: Target -18°C or below \n• Use calibrated thermometer for accuracy \n• Record all temperatures in refrigerator log \n• Temperature deviation tolerance: ±1°C acceptable"
+        }
+      ],
+      "message_id": "8971a78b-83fa-4740-bbce-b608a834c3cd",
+      "timestamp": "2026-09-16T05:56:46.128Z"
+    },
+    {
+      "role": "user",
+      "content": "What are the storage conditions for Organic Milk?",
+      "timestamp": "2026-09-16T05:56:47.450Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the SOP guidelines:\n\n• Item Code,Item Name,Stock Level,Storage Condition.\n\n• SKU101,Organic Milk,45,Refrigerated at four degrees.",
+      "citations": [
+        {
+          "source": "test_inventory_data.xlsx",
+          "title": "Inventory Specs",
+          "page": 1,
+          "sheet_name": "Inventory",
+          "category": "Stock",
+          "content": "--- Sheet: Inventory (Document: Inventory Specs) ---\nItem Code,Item Name,Stock Level,Storage Condition\nSKU101,Organic Milk,45,Refrigerated at four degrees\nSKU102,Artisan Bread,20,Dry ambient shelf"
+        }
+      ],
+      "message_id": "1a450c9f-ec78-4c3c-b18b-6c6f9e133bab",
+      "timestamp": "2026-09-16T05:56:47.450Z"
+    },
+    {
+      "role": "user",
+      "content": "What is the orbital speed of Jupiter around the sun in kilometers per hour?",
+      "timestamp": "2026-09-16T05:56:47.477Z"
+    },
+    {
+      "role": "assistant",
+      "content": "i can answer questions only related to retail SOP",
+      "citations": [],
+      "message_id": "e5a48fd3-3c17-4f78-b456-324b7b352e8d",
+      "timestamp": "2026-09-16T05:56:47.477Z"
+    },
+    {
+      "role": "user",
+      "content": "What is the return verification requirement?",
+      "timestamp": "2026-09-16T05:56:47.590Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the SOP guidelines:\n\n• Manager verifies receipt, product condition, return reason.\n\n• Person Verification: Cashier processes; manager approves/verifies.\n\n• Person Verification: Cashier generates; manager reviews.\n\n• Person Verification: Cashier and supervisor both sign off.",
+      "citations": [
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 10,
+          "sheet_name": null,
+          "category": "General",
+          "content": "10 \nStep 4: Refund Policy \n• Refunds ≤₹500: Authorized by any cashier \n• Refunds >₹500: Requires store manager approval \n• Manager verifies receipt, product condition, return reason \n• Record all refunds in POS system with authorization code \n• Physical refund processed and receipt issued immediately \n• Return reason documented in refund log \n• Monthly refund analysis performed to identify trends \n• 2-Person Verification: Cashier processes; manager approves/verifies \nStep 5: Variance Thresholds"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.docx",
+          "title": "Store Operations SOP",
+          "page": 1,
+          "sheet_name": null,
+          "category": "General",
+          "content": "Compare Z-report to drawer count\n\nAcceptable variance: ≤₹50 or <0.5%\n\nDocument any discrepancies with explanation\n\nReport significant variances (>0.5%) to store manager\n\nArchive Z-reports for 90-day audit trail\n\n2-Person Verification: Cashier generates; manager reviews\n\nStep 4: Refund Policy\n\nRefunds ≤₹500: Authorized by any cashier\n\nRefunds >₹500: Requires store manager approval\n\nManager verifies receipt, product condition, return reason\n\nRecord all refunds in POS system with authorization code"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.docx",
+          "title": "Store Operations SOP",
+          "page": 1,
+          "sheet_name": null,
+          "category": "General",
+          "content": "Physical refund processed and receipt issued immediately\n\nReturn reason documented in refund log\n\nMonthly refund analysis performed to identify trends\n\n2-Person Verification: Cashier processes; manager approves/verifies\n\nStep 5: Variance Thresholds\n\nDaily variance limit: <0.5% of daily sales\n\nWeekly variance limit: <0.25% of weekly sales\n\nMonthly variance limit: <0.20% of monthly sales\n\nVariance investigation: All cases >0.5% require documentation"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 3,
+          "sheet_name": null,
+          "category": "General",
+          "content": "• Record float amount in cash register log with time and initials \n• Any variance >₹100 from ₹5,000: Report to store manager \n• 2-Person Verification: Cashier and supervisor both sign off \nStep 5: Refrigeration Temperature Check (5 mins) \n• Check temperature of all refrigerators: Target 0-4°C \n• Check temperature of all freezers: Target -18°C or below \n• Use calibrated thermometer for accuracy \n• Record all temperatures in refrigerator log \n• Temperature deviation tolerance: ±1°C acceptable"
+        }
+      ],
+      "message_id": "b3962192-fb9e-463a-b2f5-4a7a1338a4e8",
+      "timestamp": "2026-09-16T05:56:47.590Z"
+    },
+    {
+      "role": "user",
+      "content": "What are the storage conditions for Organic Milk?",
+      "timestamp": "2026-09-16T05:56:47.611Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the SOP guidelines:\n\n• Item Code,Item Name,Stock Level,Storage Condition.\n\n• SKU101,Organic Milk,45,Refrigerated at four degrees.",
+      "citations": [
+        {
+          "source": "test_inventory_data.xlsx",
+          "title": "Inventory Specs",
+          "page": 1,
+          "sheet_name": "Inventory",
+          "category": "Stock",
+          "content": "--- Sheet: Inventory (Document: Inventory Specs) ---\nItem Code,Item Name,Stock Level,Storage Condition\nSKU101,Organic Milk,45,Refrigerated at four degrees\nSKU102,Artisan Bread,20,Dry ambient shelf"
+        }
+      ],
+      "message_id": "3fd3d18f-561e-4803-95fd-a489ab3d9d15",
+      "timestamp": "2026-09-16T05:56:47.611Z"
+    },
+    {
+      "role": "user",
+      "content": "storage conditions for organic milk",
+      "timestamp": "2026-09-16T05:56:47.623Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the SOP guidelines:\n\n• Item Code,Item Name,Stock Level,Storage Condition.\n\n• SKU101,Organic Milk,45,Refrigerated at four degrees.",
+      "citations": [
+        {
+          "source": "test_inventory_data.xlsx",
+          "title": "Inventory Specs",
+          "page": 1,
+          "sheet_name": "Inventory",
+          "category": "Stock",
+          "content": "--- Sheet: Inventory (Document: Inventory Specs) ---\nItem Code,Item Name,Stock Level,Storage Condition\nSKU101,Organic Milk,45,Refrigerated at four degrees\nSKU102,Artisan Bread,20,Dry ambient shelf"
+        }
+      ],
+      "message_id": "04271077-226f-4b10-98f7-4cef6ec9c158",
+      "timestamp": "2026-09-16T05:56:47.623Z"
+    },
+    {
+      "role": "user",
+      "content": "What are the storage conditions for Organic Milk?",
+      "timestamp": "2026-09-16T05:56:47.633Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the SOP guidelines:\n\n• Item Code,Item Name,Stock Level,Storage Condition.\n\n• SKU101,Organic Milk,45,Refrigerated at four degrees.",
+      "citations": [
+        {
+          "source": "test_inventory_data.xlsx",
+          "title": "Inventory Specs",
+          "page": 1,
+          "sheet_name": "Inventory",
+          "category": "Stock",
+          "content": "--- Sheet: Inventory (Document: Inventory Specs) ---\nItem Code,Item Name,Stock Level,Storage Condition\nSKU101,Organic Milk,45,Refrigerated at four degrees\nSKU102,Artisan Bread,20,Dry ambient shelf"
+        }
+      ],
+      "message_id": "c9549152-42a7-492b-aa7e-cd851c877429",
+      "timestamp": "2026-09-16T05:56:47.633Z"
+    }
+  ],
+  "testuser_1789539545796": [
+    {
+      "role": "user",
+      "content": "What is the return verification requirement for cashiers?",
+      "timestamp": "2026-09-16T06:19:09.953Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the SOP guidelines:\n\n• Manager verifies receipt, product condition, return reason.\n\n• Refunds ≤₹500: Authorized by any cashier.\n\n• Return reason documented in refund log.",
+      "citations": [
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 10,
+          "sheet_name": null,
+          "category": "General",
+          "content": "10 \nStep 4: Refund Policy \n• Refunds ≤₹500: Authorized by any cashier \n• Refunds >₹500: Requires store manager approval \n• Manager verifies receipt, product condition, return reason \n• Record all refunds in POS system with authorization code \n• Physical refund processed and receipt issued immediately \n• Return reason documented in refund log \n• Monthly refund analysis performed to identify trends \n• 2-Person Verification: Cashier processes; manager approves/verifies \nStep 5: Variance Thresholds"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.docx",
+          "title": "Store Operations SOP",
+          "page": 1,
+          "sheet_name": null,
+          "category": "General",
+          "content": "Compare Z-report to drawer count\n\nAcceptable variance: ≤₹50 or <0.5%\n\nDocument any discrepancies with explanation\n\nReport significant variances (>0.5%) to store manager\n\nArchive Z-reports for 90-day audit trail\n\n2-Person Verification: Cashier generates; manager reviews\n\nStep 4: Refund Policy\n\nRefunds ≤₹500: Authorized by any cashier\n\nRefunds >₹500: Requires store manager approval\n\nManager verifies receipt, product condition, return reason\n\nRecord all refunds in POS system with authorization code"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.docx",
+          "title": "Store Operations SOP",
+          "page": 1,
+          "sheet_name": null,
+          "category": "General",
+          "content": "Physical refund processed and receipt issued immediately\n\nReturn reason documented in refund log\n\nMonthly refund analysis performed to identify trends\n\n2-Person Verification: Cashier processes; manager approves/verifies\n\nStep 5: Variance Thresholds\n\nDaily variance limit: <0.5% of daily sales\n\nWeekly variance limit: <0.25% of weekly sales\n\nMonthly variance limit: <0.20% of monthly sales\n\nVariance investigation: All cases >0.5% require documentation"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 15,
+          "sheet_name": null,
+          "category": "General",
+          "content": "Service Protocols \nGreeting Protocol \n• Greet every customer within 10 seconds of store entry \n• Use friendly, authentic tone: 'Hello! Welcome in!' \n• Make eye contact and smile \n• If store is busy: 'I'll be with you in just a moment' \n• Offer assistance: 'Can I help you find anything?' \n• Remember regular customers and their preferences \n• 2-Person Verification: Mystery shopper audits monthly \nCheckout Experience \n• Scan items accurately and at reasonable speed"
+        }
+      ],
+      "message_id": "3050f506-ad68-48bc-9543-548bbc3c9674",
+      "timestamp": "2026-09-16T06:19:09.953Z"
+    },
+    {
+      "role": "user",
+      "content": "What are the storage conditions for Organic Milk?",
+      "timestamp": "2026-09-16T06:19:11.790Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the SOP guidelines:\n\n• Item Code,Item Name,Stock Level,Storage Condition.\n\n• SKU101,Organic Milk,45,Refrigerated at four degrees.",
+      "citations": [
+        {
+          "source": "test_inventory_data.xlsx",
+          "title": "Inventory Specs",
+          "page": 1,
+          "sheet_name": "Inventory",
+          "category": "Stock",
+          "content": "--- Sheet: Inventory (Document: Inventory Specs) ---\nItem Code,Item Name,Stock Level,Storage Condition\nSKU101,Organic Milk,45,Refrigerated at four degrees\nSKU102,Artisan Bread,20,Dry ambient shelf"
+        }
+      ],
+      "message_id": "7c5369e0-eb2b-43af-b2e0-692195d0ae1f",
+      "timestamp": "2026-09-16T06:19:11.790Z"
+    },
+    {
+      "role": "user",
+      "content": "What is the orbital speed of Jupiter around the sun in kilometers per hour?",
+      "timestamp": "2026-09-16T06:19:13.215Z"
+    },
+    {
+      "role": "assistant",
+      "content": "i can answer questions only related to retail SOP",
+      "citations": [],
+      "message_id": "36f48ce6-188e-4bee-b3e8-e02d7228e39a",
+      "timestamp": "2026-09-16T06:19:13.215Z"
+    },
+    {
+      "role": "user",
+      "content": "What is the return verification requirement?",
+      "timestamp": "2026-09-16T06:19:14.631Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the SOP guidelines:\n\n• Manager verifies receipt, product condition, return reason.\n\n• Return reason documented in refund log.",
+      "citations": [
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 10,
+          "sheet_name": null,
+          "category": "General",
+          "content": "10 \nStep 4: Refund Policy \n• Refunds ≤₹500: Authorized by any cashier \n• Refunds >₹500: Requires store manager approval \n• Manager verifies receipt, product condition, return reason \n• Record all refunds in POS system with authorization code \n• Physical refund processed and receipt issued immediately \n• Return reason documented in refund log \n• Monthly refund analysis performed to identify trends \n• 2-Person Verification: Cashier processes; manager approves/verifies \nStep 5: Variance Thresholds"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.docx",
+          "title": "Store Operations SOP",
+          "page": 1,
+          "sheet_name": null,
+          "category": "General",
+          "content": "Compare Z-report to drawer count\n\nAcceptable variance: ≤₹50 or <0.5%\n\nDocument any discrepancies with explanation\n\nReport significant variances (>0.5%) to store manager\n\nArchive Z-reports for 90-day audit trail\n\n2-Person Verification: Cashier generates; manager reviews\n\nStep 4: Refund Policy\n\nRefunds ≤₹500: Authorized by any cashier\n\nRefunds >₹500: Requires store manager approval\n\nManager verifies receipt, product condition, return reason\n\nRecord all refunds in POS system with authorization code"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 15,
+          "sheet_name": null,
+          "category": "General",
+          "content": "Service Protocols \nGreeting Protocol \n• Greet every customer within 10 seconds of store entry \n• Use friendly, authentic tone: 'Hello! Welcome in!' \n• Make eye contact and smile \n• If store is busy: 'I'll be with you in just a moment' \n• Offer assistance: 'Can I help you find anything?' \n• Remember regular customers and their preferences \n• 2-Person Verification: Mystery shopper audits monthly \nCheckout Experience \n• Scan items accurately and at reasonable speed"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 23,
+          "sheet_name": null,
+          "category": "General",
+          "content": "• Days 2-3: POS system training with hands-on practice \n• Days 4-5: Cash handling and security procedures \n• Days 6-7: Customer service standards and protocols \n• Days 8-9: Inventory management and shelf stocking \n• Days 10-14: Supervised shifts (paired with mentor) \n• Days 15-21: Independent shifts (with manager check-ins) \n• Days 22-30: Full responsibilities with periodic reviews \n• End of month: Competency assessment \n• 2-Person Verification: Trainer + manager assess competency"
+        }
+      ],
+      "message_id": "e794d16f-da51-4aad-b0c7-399158569003",
+      "timestamp": "2026-09-16T06:19:14.631Z"
+    },
+    {
+      "role": "user",
+      "content": "What are the storage conditions for Organic Milk?",
+      "timestamp": "2026-09-16T06:19:14.691Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the SOP guidelines:\n\n• Item Code,Item Name,Stock Level,Storage Condition.\n\n• SKU101,Organic Milk,45,Refrigerated at four degrees.",
+      "citations": [
+        {
+          "source": "test_inventory_data.xlsx",
+          "title": "Inventory Specs",
+          "page": 1,
+          "sheet_name": "Inventory",
+          "category": "Stock",
+          "content": "--- Sheet: Inventory (Document: Inventory Specs) ---\nItem Code,Item Name,Stock Level,Storage Condition\nSKU101,Organic Milk,45,Refrigerated at four degrees\nSKU102,Artisan Bread,20,Dry ambient shelf"
+        }
+      ],
+      "message_id": "5ee7ffc1-457c-4940-9a2e-1ab6de646011",
+      "timestamp": "2026-09-16T06:19:14.691Z"
+    },
+    {
+      "role": "user",
+      "content": "storage conditions for organic milk",
+      "timestamp": "2026-09-16T06:19:14.702Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the SOP guidelines:\n\n• Item Code,Item Name,Stock Level,Storage Condition.\n\n• SKU101,Organic Milk,45,Refrigerated at four degrees.",
+      "citations": [
+        {
+          "source": "test_inventory_data.xlsx",
+          "title": "Inventory Specs",
+          "page": 1,
+          "sheet_name": "Inventory",
+          "category": "Stock",
+          "content": "--- Sheet: Inventory (Document: Inventory Specs) ---\nItem Code,Item Name,Stock Level,Storage Condition\nSKU101,Organic Milk,45,Refrigerated at four degrees\nSKU102,Artisan Bread,20,Dry ambient shelf"
+        }
+      ],
+      "message_id": "a8359f14-f8c1-486d-b421-f18aa4484352",
+      "timestamp": "2026-09-16T06:19:14.702Z"
+    },
+    {
+      "role": "user",
+      "content": "What are the storage conditions for Organic Milk?",
+      "timestamp": "2026-09-16T06:19:14.711Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the SOP guidelines:\n\n• Item Code,Item Name,Stock Level,Storage Condition.\n\n• SKU101,Organic Milk,45,Refrigerated at four degrees.",
+      "citations": [
+        {
+          "source": "test_inventory_data.xlsx",
+          "title": "Inventory Specs",
+          "page": 1,
+          "sheet_name": "Inventory",
+          "category": "Stock",
+          "content": "--- Sheet: Inventory (Document: Inventory Specs) ---\nItem Code,Item Name,Stock Level,Storage Condition\nSKU101,Organic Milk,45,Refrigerated at four degrees\nSKU102,Artisan Bread,20,Dry ambient shelf"
+        }
+      ],
+      "message_id": "b606153a-e53b-4484-8470-8d1b86314fab",
+      "timestamp": "2026-09-16T06:19:14.711Z"
+    }
+  ],
+  "default": [
+    {
+      "role": "user",
+      "content": "give me the shop opening and closing time",
+      "timestamp": "2026-09-17T05:07:46.345Z"
+    },
+    {
+      "role": "assistant",
+      "content": "### Store Opening & Closing Timelines\n\n• **Opening Procedure:** Store opening procedures have a total duration of 45 minutes prior to store opening.\n\n• **Closing Announcement:** Broadcast 'Store is now closed' at store closing time.\n\n• **Closing Procedure:** Store closing procedures have a total duration of 30 minutes after the last customer leaves.\n\n• **15-Min Announcement:** Broadcast 'Store closing in 15 minutes' 15 minutes prior to store closing.",
+      "citations": [
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 6,
+          "sheet_name": null,
+          "category": "General",
+          "content": "6 \nSECTION 2: STORE CLOSING \nObjective: To ensure the store is properly closed, secured, and ready for the next day. \nTotal Duration: 30 minutes after last customer \nClosing Procedures (8 Steps) \nStep 1: Closing Announcement Protocol (5 mins) \n• Make announcement 15 minutes before closing: 'Store closing in 15 minutes' \n• Make announcement at closing time: 'Store is now closed' \n• Lock all entrance doors immediately after last customer \n• Turn off 'Open' sign and external lights"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.docx",
+          "title": "Store Operations SOP",
+          "page": 1,
+          "sheet_name": null,
+          "category": "General",
+          "content": "Objective: To ensure the store is properly closed, secured, and ready for the next day.\n\nTotal Duration: 30 minutes after last customer\n\nClosing Procedures (8 Steps)\n\nStep 1: Closing Announcement Protocol (5 mins)\n\nMake announcement 15 minutes before closing: 'Store closing in 15 minutes'\n\nMake announcement at closing time: 'Store is now closed'\n\nLock all entrance doors immediately after last customer\n\nTurn off 'Open' sign and external lights\n\nMove 'Closed' sign to clearly visible location"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.docx",
+          "title": "Store Operations SOP",
+          "page": 1,
+          "sheet_name": null,
+          "category": "General",
+          "content": "Alarm deactivated on time\n\nBefore 06:00 AM\n\n✓\n\n\n\n\n\nOpening\n\nCash float verified\n\n₹5,000 per register\n\n✓\n\n\n\n\n\nPOS\n\nSystem operational\n\nAll terminals online\n\n✓\n\n\n\n\n\nTemp\n\nFridge/Freezer temp\n\n0-4°C / -18°C\n\n✓\n\n\n\n\n\nStock\n\nShelf stocking completed\n\nAll items stocked\n\n✓\n\n\n\n\n\nCleanliness\n\nStore appearance\n\nClean and organized\n\n✓\n\n\n\n\n\nClosing\n\nCash reconciliation\n\nVariance <0.5%\n\n✓\n\n\n\n\n\nClosing\n\nInventory count\n\nVariance <2%\n\n✓\n\n\n\n\n\nSecurity\n\nAlarm activated\n\nSystem armed\n\n✓\n\n\n\n\n\nOverall"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 3,
+          "sheet_name": null,
+          "category": "General",
+          "content": "3 \nSECTION 1: STORE OPENING \nObjective: To ensure the store is ready for business and staff are briefed on sales targets and shift \nassignments. \nTotal Duration: 45 minutes before opening \nOpening Procedures (9 Steps) \nStep 1: External Security Check (10 mins) \n• Designated employee performs external security check \n• Verify all windows and doors are secure \n• Check for signs of tampering or forced entry \n• Report any suspicious activity immediately to store manager"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 24,
+          "sheet_name": null,
+          "category": "General",
+          "content": "24 \n• Cross-training for operational flexibility \n• Leadership development for advancement track \n• 2-Person Verification: Manager confirms completion \nPerformance Management \nAttendance Policy \n• Expected arrival time: 10 minutes before shift start \n• Tardiness: 3 instances = warning; 5+ = disciplinary action \n• Absences: Notify manager 2 hours before shift (if possible) \n• Unexcused absence: Immediate manager discussion \n• Attendance tracked monthly and reviewed quarterly"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.docx",
+          "title": "Store Operations SOP",
+          "page": 1,
+          "sheet_name": null,
+          "category": "General",
+          "content": "Objective: To ensure the store is ready for business and staff are briefed on sales targets and shift assignments.\n\nTotal Duration: 45 minutes before opening\n\nOpening Procedures (9 Steps)\n\nStep 1: External Security Check (10 mins)\n\nDesignated employee performs external security check\n\nVerify all windows and doors are secure\n\nCheck for signs of tampering or forced entry\n\nReport any suspicious activity immediately to store manager\n\n2-Person Verification: Store manager confirms"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.docx",
+          "title": "Store Operations SOP",
+          "page": 1,
+          "sheet_name": null,
+          "category": "General",
+          "content": "Attendance Policy\n\nExpected arrival time: 10 minutes before shift start\n\nTardiness: 3 instances = warning; 5+ = disciplinary action\n\nAbsences: Notify manager 2 hours before shift (if possible)\n\nUnexcused absence: Immediate manager discussion\n\nAttendance tracked monthly and reviewed quarterly\n\nPerfect attendance recognized and rewarded\n\nPerformance Reviews\n\nQuarterly reviews for all staff members\n\nFormal annual review documenting achievements/gaps"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 7,
+          "sheet_name": null,
+          "category": "General",
+          "content": "• Manager signs off on handover log with time and date \n• Log includes: cash amount, inventory discrepancies, issues found \n• Any unresolved items noted for next manager/shift \n• Handover log archived for audits and review \n• All staff members acknowledge receipt of shift information \n• 2-Person Verification: Closing manager + next shift manager \nStore Closing Checklist \nTask Responsible Duration Standard Verified By \n✓ \nClosing Cashiers 5 min 15 min + close Manager"
+        }
+      ],
+      "message_id": "7e576865-c73f-4672-8049-4ff368eea937",
+      "timestamp": "2026-09-17T05:07:46.345Z"
+    },
+    {
+      "role": "user",
+      "content": "what is the return policy for defective items",
+      "timestamp": "2026-09-17T05:07:47.864Z"
+    },
+    {
+      "role": "assistant",
+      "content": "### Return & Refund Policy\n\n• Return reason documented in refund log.\n\n• Manager verifies receipt, product condition, return reason.",
+      "citations": [
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 10,
+          "sheet_name": null,
+          "category": "General",
+          "content": "10 \nStep 4: Refund Policy \n• Refunds ≤₹500: Authorized by any cashier \n• Refunds >₹500: Requires store manager approval \n• Manager verifies receipt, product condition, return reason \n• Record all refunds in POS system with authorization code \n• Physical refund processed and receipt issued immediately \n• Return reason documented in refund log \n• Monthly refund analysis performed to identify trends \n• 2-Person Verification: Cashier processes; manager approves/verifies \nStep 5: Variance Thresholds"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.docx",
+          "title": "Store Operations SOP",
+          "page": 1,
+          "sheet_name": null,
+          "category": "General",
+          "content": "Compare Z-report to drawer count\n\nAcceptable variance: ≤₹50 or <0.5%\n\nDocument any discrepancies with explanation\n\nReport significant variances (>0.5%) to store manager\n\nArchive Z-reports for 90-day audit trail\n\n2-Person Verification: Cashier generates; manager reviews\n\nStep 4: Refund Policy\n\nRefunds ≤₹500: Authorized by any cashier\n\nRefunds >₹500: Requires store manager approval\n\nManager verifies receipt, product condition, return reason\n\nRecord all refunds in POS system with authorization code"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 36,
+          "sheet_name": null,
+          "category": "General",
+          "content": "• ☐ Defective Product     ☐ Wrong Item     ☐ Damaged     ☐ Changed Mind \nDetails: _________________________________________________________ \n \nRETURN ACTION: \n☐ Refund      ☐ Exchange      ☐ Store Credit \nIf Exchange - New Product: ___________________________ \n \nAPPROVAL: \nRefund Amount: ₹ _________________ (if applicable) \n \nApproved By: ___________________ Signature: ________________ \nDate: _________________ Time: ______________ \n \nPAYMENT METHOD (If Refund):"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.docx",
+          "title": "Store Operations SOP",
+          "page": 1,
+          "sheet_name": null,
+          "category": "General",
+          "content": "Product Condition: ☐ New  ☐ Opened  ☐ Used  ☐ Damaged\n\n\n\nREASON FOR RETURN/EXCHANGE:\n\n☐ Defective Product     ☐ Wrong Item     ☐ Damaged     ☐ Changed Mind\n\nDetails: _________________________________________________________\n\n\n\nRETURN ACTION:\n\n☐ Refund      ☐ Exchange      ☐ Store Credit\n\nIf Exchange - New Product: ___________________________\n\n\n\nAPPROVAL:\n\nRefund Amount: ₹ _________________ (if applicable)\n\n\n\nApproved By: ___________________ Signature: ________________"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 15,
+          "sheet_name": null,
+          "category": "General",
+          "content": "Service Protocols \nGreeting Protocol \n• Greet every customer within 10 seconds of store entry \n• Use friendly, authentic tone: 'Hello! Welcome in!' \n• Make eye contact and smile \n• If store is busy: 'I'll be with you in just a moment' \n• Offer assistance: 'Can I help you find anything?' \n• Remember regular customers and their preferences \n• 2-Person Verification: Mystery shopper audits monthly \nCheckout Experience \n• Scan items accurately and at reasonable speed"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 23,
+          "sheet_name": null,
+          "category": "General",
+          "content": "Ongoing Training \n• Monthly product knowledge updates \n• Quarterly safety and security training refresh \n• Semi-annual customer service excellence training \n• Annual compliance and policy review \n• Targeted training for identified skill gaps"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 24,
+          "sheet_name": null,
+          "category": "General",
+          "content": "24 \n• Cross-training for operational flexibility \n• Leadership development for advancement track \n• 2-Person Verification: Manager confirms completion \nPerformance Management \nAttendance Policy \n• Expected arrival time: 10 minutes before shift start \n• Tardiness: 3 instances = warning; 5+ = disciplinary action \n• Absences: Notify manager 2 hours before shift (if possible) \n• Unexcused absence: Immediate manager discussion \n• Attendance tracked monthly and reviewed quarterly"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.docx",
+          "title": "Store Operations SOP",
+          "page": 1,
+          "sheet_name": null,
+          "category": "General",
+          "content": "Service Protocols\n\nGreeting Protocol\n\nGreet every customer within 10 seconds of store entry\n\nUse friendly, authentic tone: 'Hello! Welcome in!'\n\nMake eye contact and smile\n\nIf store is busy: 'I'll be with you in just a moment'\n\nOffer assistance: 'Can I help you find anything?'\n\nRemember regular customers and their preferences\n\n2-Person Verification: Mystery shopper audits monthly\n\nCheckout Experience\n\nScan items accurately and at reasonable speed"
+        }
+      ],
+      "message_id": "80d73d56-254f-4187-8308-246227e94a4e",
+      "timestamp": "2026-09-17T05:07:47.864Z"
+    },
+    {
+      "role": "user",
+      "content": "what is the cash drawer float amount",
+      "timestamp": "2026-09-17T05:07:49.509Z"
+    },
+    {
+      "role": "assistant",
+      "content": "### Cash Drawer & Float Protocol\n\n• **Cash Float Verification:** Open each cash drawer and verify float amount of ₹5,000 per register.",
+      "citations": [
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 3,
+          "sheet_name": null,
+          "category": "General",
+          "content": "• Wait for system initialization (typically 3-5 minutes) \n• Verify all terminals connect to main server successfully \n• Check POS logs for any errors or unusual activity \n• If errors occur: Contact IT support and document issue \n• 2-Person Verification: Supervisor confirms all terminals operational \nStep 4: Cash Drawer Float Verification (5 mins) \n• Open each cash drawer and verify float amount: ₹5,000 per register \n• Use counting denomination: ₹100, ₹50, ₹20, ₹10, ₹5, ₹1 notes"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.docx",
+          "title": "Store Operations SOP",
+          "page": 1,
+          "sheet_name": null,
+          "category": "General",
+          "content": "Check POS logs for any errors or unusual activity\n\nIf errors occur: Contact IT support and document issue\n\n2-Person Verification: Supervisor confirms all terminals operational\n\nStep 4: Cash Drawer Float Verification (5 mins)\n\nOpen each cash drawer and verify float amount: ₹5,000 per register\n\nUse counting denomination: ₹100, ₹50, ₹20, ₹10, ₹5, ₹1 notes\n\nRecord float amount in cash register log with time and initials\n\nAny variance >₹100 from ₹5,000: Report to store manager"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 3,
+          "sheet_name": null,
+          "category": "General",
+          "content": "• Record float amount in cash register log with time and initials \n• Any variance >₹100 from ₹5,000: Report to store manager \n• 2-Person Verification: Cashier and supervisor both sign off \nStep 5: Refrigeration Temperature Check (5 mins) \n• Check temperature of all refrigerators: Target 0-4°C \n• Check temperature of all freezers: Target -18°C or below \n• Use calibrated thermometer for accuracy \n• Record all temperatures in refrigerator log \n• Temperature deviation tolerance: ±1°C acceptable"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 6,
+          "sheet_name": null,
+          "category": "General",
+          "content": "• Move 'Closed' sign to clearly visible location \n• 2-Person Verification: Cashier announces; manager confirms \nStep 2: Cash Reconciliation (10 mins) \n• All cashiers count cash drawer amounts independently \n• Compare drawer count with POS system reading \n• Acceptable variance: Less than 0.5% of daily sales \n• Record all discrepancies in cash reconciliation log \n• Two employees verify counts and sign reconciliation report \n• Escalate variances >0.5% to store manager for investigation"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 9,
+          "sheet_name": null,
+          "category": "General",
+          "content": "Step 2: Drawer Limits \n• Maximum cash limit per register: ₹2,000 \n• When drawer exceeds ₹2,000: Immediately notify store manager \n• Manager transfers excess cash to safe using receipt \n• Cash transfer recorded in transfer log with time and amount \n• Transfer verified by two staff members \n• Safe access logged with PIN entry and timestamp \n• 2-Person Verification: Cashier + manager for all transfers \nStep 3: Z-Reports \n• Generate Z-report (End of Day report) at shift end"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.docx",
+          "title": "Store Operations SOP",
+          "page": 1,
+          "sheet_name": null,
+          "category": "General",
+          "content": "2-Person Verification: Cashier announces; manager confirms\n\nStep 2: Cash Reconciliation (10 mins)\n\nAll cashiers count cash drawer amounts independently\n\nCompare drawer count with POS system reading\n\nAcceptable variance: Less than 0.5% of daily sales\n\nRecord all discrepancies in cash reconciliation log\n\nTwo employees verify counts and sign reconciliation report\n\nEscalate variances >0.5% to store manager for investigation\n\n2-Person Verification: Both cashier and supervisor sign off"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.docx",
+          "title": "Store Operations SOP",
+          "page": 1,
+          "sheet_name": null,
+          "category": "General",
+          "content": "Maximum cash limit per register: ₹2,000\n\nWhen drawer exceeds ₹2,000: Immediately notify store manager\n\nManager transfers excess cash to safe using receipt\n\nCash transfer recorded in transfer log with time and amount\n\nTransfer verified by two staff members\n\nSafe access logged with PIN entry and timestamp\n\n2-Person Verification: Cashier + manager for all transfers\n\nStep 3: Z-Reports\n\nGenerate Z-report (End of Day report) at shift end\n\nZ-report shows total sales, discounts, refunds, taxes collected"
+        },
+        {
+          "source": "Store_Operations_SOP_Version_2.0.pdf",
+          "title": "Store_Operations_SOP_Version_2.0",
+          "page": 23,
+          "sheet_name": null,
+          "category": "General",
+          "content": "• Days 2-3: POS system training with hands-on practice \n• Days 4-5: Cash handling and security procedures \n• Days 6-7: Customer service standards and protocols \n• Days 8-9: Inventory management and shelf stocking \n• Days 10-14: Supervised shifts (paired with mentor) \n• Days 15-21: Independent shifts (with manager check-ins) \n• Days 22-30: Full responsibilities with periodic reviews \n• End of month: Competency assessment \n• 2-Person Verification: Trainer + manager assess competency"
+        }
+      ],
+      "message_id": "72a71a4a-79ae-43a1-8f80-e316bf6581bb",
+      "timestamp": "2026-09-17T05:07:49.509Z"
+    }
+  ],
+  "testuser_1789543241819": [],
+  "testuser_1789543260094": [],
+  "testuser_1789621623997": [],
+  "testuser_1789621852113": [],
+  "testuser_1789621906354": [],
+  "testuser_1789636868271": []
+}

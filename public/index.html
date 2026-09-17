@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document Intelligence Q&A Assistant | Retail SOP</title>
+  <meta name="description" content="AI-powered Retail Standard Operating Procedure Assistant with strict document grounding and instant citations.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- App Container -->
+  <div class="app-layout">
+    
+    <!-- Sidebar -->
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-header">
+        <div class="brand">
+          <div class="brand-icon">📚</div>
+          <div class="brand-text">
+            <h2>Retail SOP AI</h2>
+            <span class="sub-text">Document Intelligence</span>
+          </div>
+        </div>
+        <button class="mobile-close-btn" id="mobileCloseBtn" title="Close Sidebar">✕</button>
+      </div>
+
+      <!-- System Status Widget -->
+      <div class="status-card">
+        <div class="status-row">
+          <span class="status-dot online"></span>
+          <span class="status-label">Backend:</span>
+          <span class="status-val text-success" id="backendStatus">Connected</span>
+        </div>
+        <div class="status-row">
+          <span class="status-dot" id="geminiStatusDot"></span>
+          <span class="status-label">Gemini LLM:</span>
+          <span class="status-val" id="geminiStatus">Checking...</span>
+        </div>
+      </div>
+
+      <!-- User Account Widget -->
+      <div class="user-widget" id="userWidget">
+        <div class="user-info-row">
+          <div class="user-avatar" id="userAvatar">A</div>
+          <div class="user-details">
+            <div class="user-name" id="userNameDisplay">Admin</div>
+            <div class="user-role-badge" id="userRoleBadge">Admin</div>
+          </div>
+          <button class="btn-logout" id="btnLogout" title="Log Out">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"></path><polyline points="16 17 21 12 16 7"></polyline><line x1="21" y1="12" x2="9" y2="12"></line></svg>
+          </button>
+        </div>
+      </div>
+
+      <!-- Upload Section -->
+      <div class="section-container">
+        <div class="section-title">
+          <span>📤 Upload Document</span>
+        </div>
+        <p class="section-caption">Supported: PDF, DOCX, XLSX, CSV, TXT</p>
+
+        <!-- Upload Tabs -->
+        <div class="tabs-header">
+          <button class="tab-btn active" data-tab="tab-file">📁 File</button>
+          <button class="tab-btn" data-tab="tab-path">📂 Path</button>
+        </div>
+
+        <div class="tab-content active" id="tab-file">
+          <div class="drop-zone" id="dropZone">
+            <input type="file" id="fileInput" accept=".pdf,.docx,.doc,.xlsx,.xls,.csv,.txt,.md" style="display:none;">
+            <div class="drop-icon">☁️</div>
+            <div class="drop-text" id="dropText">Drag & drop or <span class="browse-link">browse</span></div>
+            <div class="selected-file-name" id="selectedFileName"></div>
+          </div>
+          <button class="btn-primary full-width mt-2" id="btnUploadFile" disabled>
+            <span>🚀 Upload & Index File</span>
+          </button>
+        </div>
+
+        <div class="tab-content" id="tab-path">
+          <div class="form-group">
+            <input type="text" id="filePathInput" class="text-input" placeholder="e.g. C:\docs\sop.pdf">
+          </div>
+          <button class="btn-primary full-width" id="btnUploadPath">
+            <span>🚀 Index from Path</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Active Documents Section -->
+      <div class="section-container grow-section">
+        <div class="section-title-row">
+          <div class="section-title">
+            <span>📄 Active Documents</span>
+            <span class="count-badge" id="docCountBadge">0</span>
+          </div>
+          <button class="icon-btn" id="btnRefreshDocs" title="Refresh Index">🔄</button>
+        </div>
+        
+        <div class="document-list" id="documentList">
+          <div class="empty-list-text">No documents indexed yet.</div>
+        </div>
+      </div>
+
+      <!-- History Drawer Accordion -->
+      <div class="section-container">
+        <details class="history-accordion" id="historyAccordion">
+          <summary class="history-summary">
+            <span>📜 Past Questions (<span id="historyCount">0</span>)</span>
+            <span class="accordion-icon">▼</span>
+          </summary>
+          <div class="history-items-container" id="historyContainer">
+            <div class="empty-list-text">No past questions recorded.</div>
+          </div>
+        </details>
+        <button class="btn-secondary full-width mt-2" id="btnClearHistory">
+          <span>🗑️ Clear Chat History</span>
+        </button>
+      </div>
+
+    </aside>
+
+    <!-- Main Content Area -->
+    <main class="main-content">
+      <!-- Top Mobile Navigation Bar -->
+      <header class="mobile-nav">
+        <button class="mobile-menu-btn" id="mobileMenuBtn">☰</button>
+        <div class="mobile-title">Retail SOP Assistant</div>
+        <button class="mobile-auth-btn" id="mobileAuthBtn">👤</button>
+      </header>
+
+      <!-- Header Card -->
+      <div class="header-card">
+        <div class="header-content">
+          <h1 class="header-title">Document Q&amp;A Assistant</h1>
+          <p class="header-subtitle">Search and answers are strictly grounded in your indexed store documents</p>
+        </div>
+        <div class="header-actions">
+          <div class="badge-grounding">
+            <span class="pulse-dot"></span> Strict Grounding Active
+          </div>
+        </div>
+      </div>
+
+      <!-- Zero-state Card if no docs -->
+      <div class="zero-state-card" id="zeroStateCard" style="display:none;">
+        <div class="zero-icon">📑</div>
+        <h3>No Documents Uploaded Yet</h3>
+        <p>Upload a standard operating procedure (PDF, Word, Excel, CSV, or Text) via the sidebar to start asking questions.</p>
+      </div>
+
+      <!-- Messages Stream -->
+      <div class="chat-container" id="chatContainer">
+        <!-- Messages dynamically rendered here -->
+      </div>
+
+      <!-- Input Bar -->
+      <div class="input-container">
+        <form class="chat-form" id="chatForm">
+          <input 
+            type="text" 
+            id="chatInput" 
+            class="chat-input" 
+            placeholder="Ask a question about the uploaded document(s)..." 
+            autocomplete="off"
+          />
+          <button type="submit" class="btn-send" id="btnSend" title="Send Question">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+              <line x1="22" y1="2" x2="11" y2="13"></line>
+              <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+            </svg>
+          </button>
+        </form>
+      </div>
+    </main>
+
+  </div>
+
+  <!-- Auth Modal (Create Account / Login) -->
+  <div class="modal-backdrop" id="authModal">
+    <div class="modal-card">
+      <div class="modal-header">
+        <div class="modal-tabs">
+          <button class="modal-tab active" id="tabLoginBtn">Sign In</button>
+          <button class="modal-tab" id="tabRegisterBtn">Create Account</button>
+        </div>
+        <button class="modal-close-btn" id="authModalClose">✕</button>
+      </div>
+
+      <!-- Login Form -->
+      <form class="modal-body active" id="loginForm">
+        <h3 class="auth-title">Welcome Back</h3>
+        <p class="auth-sub">Sign in to access your personal store Q&amp;A history</p>
+
+        <div class="form-group">
+          <label for="loginUsername">Username</label>
+          <input type="text" id="loginUsername" class="modal-input" placeholder="e.g. admin or staff" required>
+        </div>
+
+        <div class="form-group">
+          <label for="loginPassword">Password</label>
+          <input type="password" id="loginPassword" class="modal-input" placeholder="••••••••" required>
+        </div>
+
+        <div class="auth-error" id="loginError"></div>
+
+        <button type="submit" class="btn-primary full-width mt-3" id="btnLoginSubmit">
+          <span>Sign In</span>
+        </button>
+
+        <div class="demo-hints">
+          <p>Default accounts:</p>
+          <span><code>admin</code> / <code>admin123</code></span> &bull; 
+          <span><code>staff</code> / <code>staff123</code></span>
+        </div>
+      </form>
+
+      <!-- Register Form -->
+      <form class="modal-body" id="registerForm">
+        <h3 class="auth-title">Create Account</h3>
+        <p class="auth-sub">Register your new profile for isolated chat history</p>
+
+        <div class="form-group">
+          <label for="regFullName">Full Name</label>
+          <input type="text" id="regFullName" class="modal-input" placeholder="e.g. Jane Doe" required>
+        </div>
+
+        <div class="form-group">
+          <label for="regUsername">Username</label>
+          <input type="text" id="regUsername" class="modal-input" placeholder="e.g. janedoe" required>
+        </div>
+
+        <div class="form-group">
+          <label for="regPassword">Password</label>
+          <input type="password" id="regPassword" class="modal-input" placeholder="Minimum 4 characters" required>
+        </div>
+
+        <div class="form-group">
+          <label for="regRole">Role</label>
+          <select id="regRole" class="modal-select">
+            <option value="General">Retail Associate / General</option>
+            <option value="Manager">Department Manager</option>
+            <option value="Admin">Administrator</option>
+          </select>
+        </div>
+
+        <div class="auth-error" id="regError"></div>
+
+        <button type="submit" class="btn-primary full-width mt-3" id="btnRegisterSubmit">
+          <span>Create Account</span>
+        </button>
+      </form>
+    </div>
+  </div>
+
+  <!-- Feedback Modal -->
+  <div class="modal-backdrop" id="feedbackModal">
+    <div class="modal-card small-modal">
+      <div class="modal-header">
+        <h3 class="modal-heading">Provide Feedback</h3>
+        <button class="modal-close-btn" id="feedbackModalClose">✕</button>
+      </div>
+      <div class="modal-body active">
+        <p class="modal-sub">How was this answer?</p>
+        <div class="rating-choice-row">
+          <button class="rating-choice-btn" data-rating="thumbs_up">👍 Helpful & Accurate</button>
+          <button class="rating-choice-btn" data-rating="thumbs_down">👎 Inaccurate / Incomplete</button>
+        </div>
+        <div class="form-group mt-3">
+          <label for="feedbackComment">Additional Comments (Optional)</label>
+          <textarea id="feedbackComment" class="modal-textarea" rows="3" placeholder="Tell us how we can improve this answer..."></textarea>
+        </div>
+        <button class="btn-primary full-width mt-3" id="btnSubmitFeedback">
+          <span>Submit Feedback</span>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast Notification Container -->
+  <div class="toast-container" id="toastContainer"></div>
+
+  <!-- Scripts -->
+  <script src="app.js"></script>
+</body>
+</html>

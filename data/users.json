@@ -1,0 +1,322 @@
+[
+  {
+    "id": "usr_admin",
+    "username": "admin",
+    "fullName": "Store Administrator",
+    "passwordHash": "$2a$10$EN81SRWHd4e8.vBiqh3r2u4YcheNHc/aoWXnUuPhHos41i2pGUIDK",
+    "role": "Admin",
+    "createdAt": "2026-09-16T04:45:45.851Z"
+  },
+  {
+    "id": "usr_staff",
+    "username": "staff",
+    "fullName": "Retail Floor Associate",
+    "passwordHash": "$2a$10$EN81SRWHd4e8.vBiqh3r2u7EsBmMMBRTK4N2FVogj5ufF3Rfi2rxy",
+    "role": "General",
+    "createdAt": "2026-09-16T04:45:45.913Z"
+  },
+  {
+    "id": "usr_68949494",
+    "username": "testuser_1789533945919",
+    "fullName": "Test Operator",
+    "passwordHash": "$2a$10$EYoIoXFLnsSHc5ihvEXAAesEt6nfF.VC8sDZj/juVZb3fyYMtCM3G",
+    "role": "Manager",
+    "createdAt": "2026-09-16T04:45:46.180Z"
+  },
+  {
+    "id": "usr_77ba8b3c",
+    "username": "user2_1789533951766",
+    "fullName": "Second User",
+    "passwordHash": "$2a$10$q2mUo6AwfUoX9v8JwqnEuOS.3VVEOMX2CwWofBXonQAJqqzntgcd.",
+    "role": "General",
+    "createdAt": "2026-09-16T04:45:51.835Z"
+  },
+  {
+    "id": "usr_3abf0ad7",
+    "username": "testuser_1789533985578",
+    "fullName": "Test Operator",
+    "passwordHash": "$2a$10$sGtCBHEEglxuGVxNLDwEzuS/iw00a4fxasPXRMm8/TkObwujNSiKi",
+    "role": "Manager",
+    "createdAt": "2026-09-16T04:46:25.725Z"
+  },
+  {
+    "id": "usr_0959e35e",
+    "username": "user2_1789533990073",
+    "fullName": "Second User",
+    "passwordHash": "$2a$10$udpP0sp1eGC9DCmy5vurA.ST8oDlfTYUeufk.wkvNRYUtbGZTNJsK",
+    "role": "General",
+    "createdAt": "2026-09-16T04:46:30.141Z"
+  },
+  {
+    "id": "usr_f10f86e4",
+    "username": "testuser_1789534726522",
+    "fullName": "Test Operator",
+    "passwordHash": "$2a$10$ohGcENII.dgxTyYmR0vT5uRZL4xDaaraCv1D.h0QksKnzu7N6EbRy",
+    "role": "Manager",
+    "createdAt": "2026-09-16T04:58:46.791Z"
+  },
+  {
+    "id": "usr_7d674738",
+    "username": "user2_1789534728794",
+    "fullName": "Second User",
+    "passwordHash": "$2a$10$QaZ/t1c2qLHzb9vrC.tpnOo7KDsIKy/CNuYLPDjXdwPu2jNmK0UJ.",
+    "role": "General",
+    "createdAt": "2026-09-16T04:58:48.985Z"
+  },
+  {
+    "id": "usr_7d523ec2",
+    "username": "testuser_1789534747181",
+    "fullName": "Test Operator",
+    "passwordHash": "$2a$10$rF3D2Jpow1xwyClhBvmWXuGxuxUQxTsXSKe0fYHuY.6okTjtIkKEa",
+    "role": "Manager",
+    "createdAt": "2026-09-16T04:59:07.392Z"
+  },
+  {
+    "id": "usr_54cfeb31",
+    "username": "user2_1789534752408",
+    "fullName": "Second User",
+    "passwordHash": "$2a$10$N8all3nLPlpS3ZJBOEDYcOqbdWaiXQJPMSNrxx58GhPsA4UPAdmUK",
+    "role": "General",
+    "createdAt": "2026-09-16T04:59:12.679Z"
+  },
+  {
+    "id": "usr_60b905d3",
+    "username": "testuser_1789536273569",
+    "fullName": "Test Operator",
+    "passwordHash": "$2a$10$qskMQ3bxuRhmt7KPvcJr2OsSCwR2yWAlb3/zwmij20CgDugZIbewm",
+    "role": "Manager",
+    "createdAt": "2026-09-16T05:24:36.506Z"
+  },
+  {
+    "id": "usr_0f18020a",
+    "username": "user2_1789536283152",
+    "fullName": "Second User",
+    "passwordHash": "$2a$10$QN7gGO.CYiKxvJiKp3/epOioHDMVbK87x2oIM449jQCt0YGRsYM.G",
+    "role": "General",
+    "createdAt": "2026-09-16T05:24:43.285Z"
+  },
+  {
+    "id": "usr_73a8314d",
+    "username": "testuser_1789536302372",
+    "fullName": "Test Operator",
+    "passwordHash": "$2a$10$mjYnaIo2WvmwsmsUAJB0SOjBKYzy5zw2n9B8J7sUpztjE4NzSzdtO",
+    "role": "Manager",
+    "createdAt": "2026-09-16T05:25:03.047Z"
+  },
+  {
+    "id": "usr_300ff990",
+    "username": "testuser_1789536335070",
+    "fullName": "Test Operator",
+    "passwordHash": "$2a$10$DRjRXoGv87.Ux1Kutf7Hsu9kGUXsQa0uzSL7308A0Wqc6nx9jyAbO",
+    "role": "Manager",
+    "createdAt": "2026-09-16T05:25:35.935Z"
+  },
+  {
+    "id": "usr_669d543b",
+    "username": "user2_1789536340722",
+    "fullName": "Second User",
+    "passwordHash": "$2a$10$Egtqnug4qwkUp2SxIEDGhOm3hbIm4v6lPCtmH37jCwExI79/vG7wS",
+    "role": "General",
+    "createdAt": "2026-09-16T05:25:40.932Z"
+  },
+  {
+    "id": "usr_1e086f66",
+    "username": "testuser_1789536383988",
+    "fullName": "Test Operator",
+    "passwordHash": "$2a$10$n./chrhaIsAZ3xrou9Qzs.DEpctMWF5bzwRn4cEA0RE3U7oHR9sNe",
+    "role": "Manager",
+    "createdAt": "2026-09-16T05:26:24.719Z"
+  },
+  {
+    "id": "usr_5573a26b",
+    "username": "testuser_1789536410027",
+    "fullName": "Test Operator",
+    "passwordHash": "$2a$10$Cjtu9Bbw7qmVTkvqJAiUl.Yg9HVDpC0OeTGhCGh9zaRxPPpO1mdiO",
+    "role": "Manager",
+    "createdAt": "2026-09-16T05:26:50.681Z"
+  },
+  {
+    "id": "usr_5be6d853",
+    "username": "user2_1789536416396",
+    "fullName": "Second User",
+    "passwordHash": "$2a$10$ESSXjVam52HQPaMsSXVb1OixV.c0YzzdS5P5utiqcGtStmP/MEuG.",
+    "role": "General",
+    "createdAt": "2026-09-16T05:26:56.483Z"
+  },
+  {
+    "id": "usr_51b2e267",
+    "username": "testuser_1789536449122",
+    "fullName": "Test Operator",
+    "passwordHash": "$2a$10$KdVBSP3CcGZYAtXrvH5zJuZE526LP714r5spYIQl.6y.Yj8l2aKvC",
+    "role": "Manager",
+    "createdAt": "2026-09-16T05:27:30.020Z"
+  },
+  {
+    "id": "usr_c4d59844",
+    "username": "user2_1789536458921",
+    "fullName": "Second User",
+    "passwordHash": "$2a$10$yI2GhjGr14Z0A.dIaj1rW.lKdMU4JZ3L6t6N87CA.0QBcNRlBPuYq",
+    "role": "General",
+    "createdAt": "2026-09-16T05:27:39.156Z"
+  },
+  {
+    "id": "usr_411c124a",
+    "username": "testuser_1789536529491",
+    "fullName": "Test Operator",
+    "passwordHash": "$2a$10$zHdIuUJer/55ICKb13.UG.y8rZ2X2.rP3Q/ZQPaqGQ5DxcAX5JdVy",
+    "role": "Manager",
+    "createdAt": "2026-09-16T05:28:50.492Z"
+  },
+  {
+    "id": "usr_41619fc4",
+    "username": "user2_1789536538408",
+    "fullName": "Second User",
+    "passwordHash": "$2a$10$Kluk7j81XPpLQNJOndmkuOfjXUDHHZAL5oe3eaxU6qzvTOe0TtSAS",
+    "role": "General",
+    "createdAt": "2026-09-16T05:28:58.709Z"
+  },
+  {
+    "id": "usr_8a4ebf8b",
+    "username": "testuser_1789536962462",
+    "fullName": "Test Operator",
+    "passwordHash": "$2a$10$LMG/C.VlIIDsD5Q7R56REOSA4eJtdWxX.Y879I6vWnRx712zs/C9i",
+    "role": "Manager",
+    "createdAt": "2026-09-16T05:36:03.141Z"
+  },
+  {
+    "id": "usr_d30a688a",
+    "username": "user2_1789536967421",
+    "fullName": "Second User",
+    "passwordHash": "$2a$10$4kWwS9gIDdsWE9cd.C1pZu8kqEBwP/B9QpHdF1w7nWYcFR6hACuP6",
+    "role": "General",
+    "createdAt": "2026-09-16T05:36:07.514Z"
+  },
+  {
+    "id": "usr_118e1212",
+    "username": "testuser_1789538201502",
+    "fullName": "Test Operator",
+    "passwordHash": "$2a$10$h8MK2w8cf.GjOmzeefx44O9syIiKDXGxoen3HWGCfymya0bad5xYW",
+    "role": "Manager",
+    "createdAt": "2026-09-16T05:56:42.282Z"
+  },
+  {
+    "id": "usr_dfd70649",
+    "username": "user2_1789538207495",
+    "fullName": "Second User",
+    "passwordHash": "$2a$10$ggDnQkDF.3ndKc634yrlweKtmIAYw37ja.LRF6ivmJiPxqnrwht1K",
+    "role": "General",
+    "createdAt": "2026-09-16T05:56:47.573Z"
+  },
+  {
+    "id": "usr_07253237",
+    "username": "testuser_1789539545796",
+    "fullName": "Test Operator",
+    "passwordHash": "$2a$10$lp7bj24.d7CoZ9uN0KU9KObJ5XF4HoOX3uqE./7qEvE9P094Ci8Bq",
+    "role": "Manager",
+    "createdAt": "2026-09-16T06:19:06.635Z"
+  },
+  {
+    "id": "usr_7e7706d8",
+    "username": "user2_1789539553233",
+    "fullName": "Second User",
+    "passwordHash": "$2a$10$nKPV4wAdMi9FquRlwIG7kuRqdjIkHlBrac7ZVCi8H7493G7/ccfpq",
+    "role": "General",
+    "createdAt": "2026-09-16T06:19:13.315Z"
+  },
+  {
+    "id": "usr_4a131214",
+    "username": "testuser_1789543241819",
+    "fullName": "Test Operator",
+    "passwordHash": "$2a$10$nri5PHraQhsMBwP4PrWGfu2kRMycSLyABvyZQ3x82chTCTwq0Psku",
+    "role": "Manager",
+    "createdAt": "2026-09-16T07:20:41.924Z"
+  },
+  {
+    "id": "usr_ccee0415",
+    "username": "user2_1789543242050",
+    "fullName": "Second User",
+    "passwordHash": "$2a$10$U9I9AxKkGu/6VqvW1nHLBeeWJ1vIMH2wZuZ0bNR7DOroLuTMfVNA6",
+    "role": "General",
+    "createdAt": "2026-09-16T07:20:42.112Z"
+  },
+  {
+    "id": "usr_92ad5ce3",
+    "username": "testuser_1789543260094",
+    "fullName": "Test Operator",
+    "passwordHash": "$2a$10$Y/6/DHeGUEa/HvE908iwJOQMBS1lKrkY6ROoUr7zX0onMKznr0yby",
+    "role": "Manager",
+    "createdAt": "2026-09-16T07:21:00.602Z"
+  },
+  {
+    "id": "usr_07869d11",
+    "username": "user2_1789543265974",
+    "fullName": "Second User",
+    "passwordHash": "$2a$10$qQBkxTJMvOA7a/z6It.mTe76g4sZlE/hdgmW0uSs0gA1PZYdyE9mS",
+    "role": "General",
+    "createdAt": "2026-09-16T07:21:06.035Z"
+  },
+  {
+    "id": "usr_38ea4bc2",
+    "username": "testuser_1789621623997",
+    "fullName": "Test Operator",
+    "passwordHash": "$2a$10$GsfdZWUU7QG9PNjcP8AW/um0ja0ronBc5av31Cd.zm/yJOpPFkXNC",
+    "role": "Manager",
+    "createdAt": "2026-09-17T05:07:04.491Z"
+  },
+  {
+    "id": "usr_3eccacb2",
+    "username": "user2_1789621631128",
+    "fullName": "Second User",
+    "passwordHash": "$2a$10$zoljEHqkRQieTXXP1PX.O.hklZZqqhDScfRWnxcbfzTbUjexS1eXa",
+    "role": "General",
+    "createdAt": "2026-09-17T05:07:11.213Z"
+  },
+  {
+    "id": "usr_7a40055b",
+    "username": "testuser_1789621852113",
+    "fullName": "Test Operator",
+    "passwordHash": "$2a$10$8T0tKuYZsrqA1twgzkjp2exUrJkkIoqXeCW1BXWsQrP2bi4Y5lUqy",
+    "role": "Manager",
+    "createdAt": "2026-09-17T05:10:52.879Z"
+  },
+  {
+    "id": "usr_9024d27b",
+    "username": "user2_1789621861478",
+    "fullName": "Second User",
+    "passwordHash": "$2a$10$sQNoKyETWcEDk.1D6Mc3ZuQqCgs/1l50MIshKX2vBuNJ8ngjY/Qf6",
+    "role": "General",
+    "createdAt": "2026-09-17T05:11:02.381Z"
+  },
+  {
+    "id": "usr_953d4739",
+    "username": "testuser_1789621906354",
+    "fullName": "Test Operator",
+    "passwordHash": "$2a$10$X7/n9U69xY06Oeg5aL0zi.c6hdGeCqBYypUvZas6xvoU/dz53.gkq",
+    "role": "Manager",
+    "createdAt": "2026-09-17T05:11:47.475Z"
+  },
+  {
+    "id": "usr_4361bffb",
+    "username": "user2_1789621913770",
+    "fullName": "Second User",
+    "passwordHash": "$2a$10$aL7UmTN6rzSUWWrAx1PjZuUmN2uVpqMpOeAuw/bYE/tUtEXV7oZLe",
+    "role": "General",
+    "createdAt": "2026-09-17T05:11:53.839Z"
+  },
+  {
+    "id": "usr_d1834c9f",
+    "username": "testuser_1789636868271",
+    "fullName": "Test Operator",
+    "passwordHash": "$2a$10$Jx.o8WRmWLzXehVYbojE7uMgZsGsTTIEvAsh3vtketjcT3b4Ycv5.",
+    "role": "Manager",
+    "createdAt": "2026-09-17T09:21:15.834Z"
+  },
+  {
+    "id": "usr_c4fc74a6",
+    "username": "user2_1789636882229",
+    "fullName": "Second User",
+    "passwordHash": "$2a$10$hq5NWsXbNiWuGw0pssdPeumecmWeMUHDLNV7z89yR1R7cGLOR5N2a",
+    "role": "General",
+    "createdAt": "2026-09-17T09:21:22.327Z"
+  }
+]
